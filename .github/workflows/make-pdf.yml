@@ -28,6 +28,9 @@ jobs:
           build_pdf: true
           build_html: false
       
+      - name: Rename generated PDF
+        run: mv README.pdf Curriculum-Vitae.pdf
+  
       - name: commit new pdf
         run: |
           git config user.name "github-actions[bot]"
