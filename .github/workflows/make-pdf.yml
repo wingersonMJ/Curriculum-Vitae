@@ -2,6 +2,7 @@ name: 'Markdown to PDF'
 description: 'Converts .md to .pdf on every push'
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
