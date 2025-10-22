@@ -1,0 +1,40 @@
+name: 'Markdown to PDF'
+description: 'Converts .md to .pdf on every push'
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+      - '!**.pdf'
+    
+jobs:
+  md-to-pdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: get repo
+        uses: actions/checkout@v4
+
+      - name: md to pdf
+        uses: baileyjm02/markdown-to-pdf@v1
+        with: 
+          input_dir: .
+          output_dir: .
+          build_pdf: true
+          build_html: false
+      
+      - name: commit new pdf
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add *.pdf
+          git commit -m "Auto-update .md to .pdf" || echo "No changes to commit"
+          git push
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
