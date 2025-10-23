@@ -27,9 +27,6 @@ Phone: 816.801.3238
 9. [Supervised Research Trainees](#supervised-research-trainees)
 10. [References](#references)
 
-[Jump to other](#location)
-
-
 --- 
 
 ## Education
@@ -520,9 +517,32 @@ Primary reviewer. *Archives of Clinical Neuropsychology.* Completed July 29, 202
 #### In the News:
 1. https://www.msn.com/en-us/health/other/study-investigates-flag-football-s-affect-on-girl-s-physical-mental-health/ar-AA1JYIZA  
 
+#### Python Packaging:
+1. PropensityBatchRandomization: A tool for randomizing participant biological samples across plates or batches while numerically evaluating the balance of key participant covariates post-randomization. 
+    - [GitHub Repo](https://github.com/wingersonMJ/PropensityBatchRandomization)
+    - [PyPI Project Page](https://pypi.org/project/propensitybatchrandomization/)
 
-To add in later:
-- Anything interesting from my github that didn't result in a paper/presentation
+#### Neural Network From Scratch Example:
+1. Neural Network From Scratch: Building a neural network, with forward passes and backpropogation for weight/bias updates, from scratch using just numpy. 
+    - [GitHub Repo](https://github.com/wingersonMJ/Neural_net_example)
+
+#### Web Apps (to update later):
+1. R shiny for random forest project
+2. App for HRm Prediction
+3. App for PRiSM presentation
+4. App for lab papers
+
+#### NEURIPS Submission:
+1. Add NEURIPS submission
+
+#### Side-Projects in Deep Learning:
+1. Add everying from DL class
+
+#### Side-Projects in Machine Learning:
+1. Add everying from ML class
+
+#### Decision Tree Analysis:
+1. Add decision tree paper and code
 
 ---
 
@@ -582,8 +602,6 @@ Lead Statistician, Colorado Concussion Research Laboratory, University of Colora
 *Contact information available uppon request*
 
 ---
-
-<a name="location"></a>
 
 **Other:**  
 git config --global alias.cv "!git pull --rebase origin main && git push origin main""git pull --rebase origin main && git push origin main"  
