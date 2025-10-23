@@ -524,14 +524,58 @@ To add in later:
 
 ## Honors and Awards
 
+#### Top Trainee/Pre-Doctoral Presentation Finalist:
+*University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship.* November 14, 2020. Anschutz Medical Campus, Aurora, CO.  
+
+#### Mack Clayton Pre-Doctoral Presentation Award:
+*University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship.* November 14, 2020. Anschutz Medical Campus, Aurora, CO.  
+
+#### Mack Clayton Travel Award:
+*University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship.* November 14, 2020. Anschutz Medical Campus, Aurora, CO. $1000  
+
+#### Top Poster Award Finalist:
+*Pediatric Research in Sports Medicine Society (PRiSM).* January 27-29, 2022. Houston, TX.
+
+#### Top Trainee/Pre-Doctoral Presentation Finalist:
+*University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship.* October 23, 2024. Anschutz Medical Campus, Aurora, CO.
+
 ---
 
 ## Supervised Research Trainees
+
+#### Undergratuate Students:
+- Jake Rademacher. University of Denver, College of Natural Sciences and Mathematics. Fall 2021 - Spring 2023.
+- Zachary Salfi. University of North Carolina. Summer 2025 - Present. 
+
+#### Graduate Students:
+- Nicole Szeto. University of Colorado Anschutz, Graduate School. Fall 2022 - Fall 2023.
+- Bailey Schmitz. Northern Arizona University, Doctor of Occupational Therapy Program. Fall 2021 - Spring 2022. 
+- Sammuel Messenger. University of Colorado Anschutz, Master of Epidemiology Program. Fall 2022 - Fall 2023. 
+- Ross Moseley, University of Colorado Anschutz, School of Medicine. Fall 2024 - Present. 
+
+#### Research Trainees:
+- Katelyn Hurlburt. University of Colorado Anschutz, Colorado Concussion Research Laboratory. Spring 2025 - Present.
+- Meghan Whalen. Boston Children's Hospital, Micheli Center for Sports Injury Prevention. Spring 2025 - Present. 
 
 --- 
 
 ## References
 
+#### David Howell, PhD, ATC.
+Associate Professor, Department of Orthopedics, University of Colorado School of Medicine.  
+Lead Researcher, Sports Medicine Center, Children's Hospital Colorado.  
+Lead Researcher, Colorado Concussion Research Laboratory, University of Colorado School of Medicine.  
+*Contact information available uppon request*
+
+#### Julie Wilson, MD. 
+Attending Physician, Sports Medicine Center, Children's Hospital Colorado.  
+Associate Professor, Department of Orthopedics, University of Colorado School of Medicine.  
+*Contact information available uppon request*
+
+#### Patrick Carry, PhD. 
+Assistant Professor, Department of Orthopedics, University of Colorado School of Medicine.  
+Lead Statistician, Colorado Concussion Research Laboratory, University of Colorado School of Medicine.  
+*Contact information available uppon request*
 
 ---
 
