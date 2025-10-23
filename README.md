@@ -27,6 +27,9 @@ Phone: 816.801.3238
 9. [Supervised Research Trainees](#supervised-research-trainees)
 10. [References](#references)
 
+[Jump to other](#location)
+
+
 --- 
 
 ## Education
@@ -579,6 +582,8 @@ Lead Statistician, Colorado Concussion Research Laboratory, University of Colora
 *Contact information available uppon request*
 
 ---
+
+<a name="location"></a>
 
 **Other:**  
 git config --global alias.cv "!git pull --rebase origin main && git push origin main""git pull --rebase origin main && git push origin main"  
