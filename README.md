@@ -54,3 +54,5 @@ Simpson College, Department of Psychology, Indianola, IA.
 
 ### PhD Student/Candidate Researcher
 
+Testing out git pull --rebase
+
