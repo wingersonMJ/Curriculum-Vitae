@@ -307,11 +307,11 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 42.	Smulligan KL, **Wingerson MJ,** Magliato SN, Little CC, Wilson JC, Howell DR. Assessing vestibular, oculomotor, and cervical spine impairments as predictors of post-concussion gait speed. American Physical Therapy Association (APTA) 2023 Combined Sections Meeting. February 23-25, 2023. San Diego, CA. AASPT Science Meets Practice Podium Presentation. 
 
-43.	Barnes A, Smulligan KL, **Wingerson MJ,** Little CC, Lugade V, Wilson JC, Howell DR. A multifaceted approach to measuring reaction time deficits after adolescent concussion. American Physical Therapy Association (APTA) 2023 Combined Sections Meeting. February 23-25, 2023. San Diego, CA. AASPT Science Meets Practice Podium presentation. Top Sports Physical Therapy Abstract Finalist.
+43.	Barnes A, Smulligan KL, **Wingerson MJ,** Little CC, Lugade V, Wilson JC, Howell DR. A multifaceted approach to measuring reaction time deficits after adolescent concussion. American Physical Therapy Association (APTA) 2023 Combined Sections Meeting. February 23-25, 2023. San Diego, CA. AASPT Science Meets Practice Podium presentation. **Top Sports Physical Therapy Abstract Finalist.**
 
-44.	Smulligan KL, **Wingerson MJ,** Magliato SN, Little CC, Wilson JC, Howell DR. Impaired Cervical Spine Proprioception Predicts Gait Speed After Adolescent Concussion. University of Colorado Orthopedics Research Symposium and D’Ambrosia Diversity Lectureship. October 5, 2022. Poster Presentation. Mack Clayton Travel Award Finalist. Mack Clayton Pre-Doctoral Presentation Travel Award Winner.
+44.	Smulligan KL, **Wingerson MJ,** Magliato SN, Little CC, Wilson JC, Howell DR. Impaired Cervical Spine Proprioception Predicts Gait Speed After Adolescent Concussion. University of Colorado Orthopedics Research Symposium and D’Ambrosia Diversity Lectureship. October 5, 2022. Poster Presentation. **Mack Clayton Travel Award Finalist. Mack Clayton Pre-Doctoral Presentation Travel Award Winner.**
 
-45.	Magliato SN, Carry PM, Smulligan KL, **Wingerson MJ,** Wilson JC, Howell DR. Latent trajectory analysis to identify post-concussion injury risk among adolescent athletes. University of Colorado Orthopedics Research Symposium and D’Ambrosia Diversity Lectureship. October 5, 2022. Podium presentation. Mack Clayton Travel Award Finalist. Mack Clayton Pre-Doctoral Presentation Travel Award Winner.
+45.	Magliato SN, Carry PM, Smulligan KL, **Wingerson MJ,** Wilson JC, Howell DR. Latent trajectory analysis to identify post-concussion injury risk among adolescent athletes. University of Colorado Orthopedics Research Symposium and D’Ambrosia Diversity Lectureship. October 5, 2022. Podium presentation. **Mack Clayton Travel Award Finalist. Mack Clayton Pre-Doctoral Presentation Travel Award Winner.**
 
 46.	Seehusen CN, **Wingerson MJ,** Magliato SN, Smulligan KL, Wilson JC, Howell DR. Headache Types and Medication/Supplement Use in Youth Concussion. University of New England College of Osteopathic Medicine Fall Research Symposium. September 30, 2022. Portland, ME. Poster presentation. 
 
@@ -329,7 +329,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 53.	Szeto NS, **Wingerson MJ,** Smulligan KL, Magliato SN, Simon S, Wilson JC, Howell DR. Sex differences in self-repoted depressive symptoms in adolescents with concussion. American College of Sports Medicine (ACSM) 2023 Annual Meeting & World Congress. May 30 – June 2, 2023. Denver, CO. Free Communications/Poster Presentation. 
 
-54.	Smulligan KL, **Wingerson MJ,** Little CC, Wilson JC, Howell DR. Sleep Quality, Dizziness, and Postural Stability Following Early Post-Concussion Physical Activity. University of Colorado Anschutz Medical Campus 37th Annual Student Research Forum. December 13, 2022. Aurora, CO. Poster presentation. Top Poster Award. 
+54.	Smulligan KL, **Wingerson MJ,** Little CC, Wilson JC, Howell DR. Sleep Quality, Dizziness, and Postural Stability Following Early Post-Concussion Physical Activity. University of Colorado Anschutz Medical Campus 37th Annual Student Research Forum. December 13, 2022. Aurora, CO. Poster presentation. **Top Poster Award.**
 
 55.	Smulligan KL, **Wingerson MJ,** Magliato SN, Wilson JC, Howell DR. Moderate to vigorous physical activity predicts post-concussion anxiety among adolescents athletes. Rocky Mountain American Society of Biomechanics. April 7-8, 2023. Estes Park, CO. Poster Presentation.
 
@@ -351,7 +351,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 64.	Singh M, Smulligan KL, **Wingerson MJ,** Magliato SN, Wilson JC, Howell DR. The utility of immediate and delayed recall assessment for concussion prognosis. Pediatric Research in Sports Medicine (PRiSM) 11th Annual Meeting. January 25-27, 2024. Anaheim, CA. Podium Presentation.
 
-65.	Kniss JR, **Wingerson MJ,** Smulligan KL, Magliato SN, Kemp LE, Wilson JC, Howell DR. Post-concussion dual-task performance among adolescents with and without attention deficit/hyperactivity disorder: A cross-sectional study. Pediatric Research in Sports Medicine (PRiSM) 11th Annual Meeting. January 25-27, 2024. Anaheim, CA. Podium Presentation. Top Podium Presentation Award Finalist. 
+65.	Kniss JR, **Wingerson MJ,** Smulligan KL, Magliato SN, Kemp LE, Wilson JC, Howell DR. Post-concussion dual-task performance among adolescents with and without attention deficit/hyperactivity disorder: A cross-sectional study. Pediatric Research in Sports Medicine (PRiSM) 11th Annual Meeting. January 25-27, 2024. Anaheim, CA. Podium Presentation. **Top Podium Presentation Award Finalist.**
 
 66.	Messenger SA, Magliato SN, Kemp LE, Smulligan KL, **Wingerson MJ,** Simon SL, Wilson JC, Howell DR. Predictors of sleep efficiency among adolescents with concussion. Pediatric Research in Sports Medicine (PRiSM) 11th Annual Meeting. January 25-27, 2024. Anaheim, CA. Poster presentation.
 
@@ -386,11 +386,11 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 82.	Kniss JR, Hemmerle MR, Magliato SN, Smulligan KL, **Wingerson MJ,** Lugade VA, Wilson JC, Howell DR. Smartphone-Based Assessment of Gait During Normal Walking in Laboratory and Free-Living Environments. Rocky Mountain American Society of Biomechanics (RMASB) 2024 Annual Meeting. April 5, 2024. Estes Park, CO. Poster Presentation.
 
-83.	Donahue CC, **Wingerson MJ,** Smulligan KL, Brna M, Simon S, Wilson JC, Howell DR. Sleep quality variability predicts mental health during a sports season among females adolescent athletes. Pediatric Research in Sports Medicine (PRiSM) 11th annual meeting. Columbus, OH. 
+83.	Donahue CC, **Wingerson MJ,** Smulligan KL, Brna M, Simon S, Wilson JC, Howell DR. Sleep quality variability predicts mental health during a sports season among females adolescent athletes. Pediatric Research in Sports Medicine (PRiSM) 11th annual meeting. Columbus, OH. Poster Presentation.
 
-84.	Wilson JC, **Wingerson MJ,** Smulligan KL, Kniss J, Donahue C, Howell DR. Exploring the connection between physical activity and depressive symptoms in adolescents after concussion. Pediatric Research in Sports Medicine (PRiSM) 11th annual meeting. Columbus, OH. Poster presentation (Top 10 Finalist). 
+84.	Wilson JC, **Wingerson MJ,** Smulligan KL, Kniss J, Donahue C, Howell DR. Exploring the connection between physical activity and depressive symptoms in adolescents after concussion. Pediatric Research in Sports Medicine (PRiSM) 11th annual meeting. Columbus, OH. Poster presentation. **Top 10 Poster Finalist.**
 
-85.	Kniss JR, **Wingerson MJ,** Smulligan KL, Greene N, Wilson JC, Howell DR. Quality of life among adolescents with and without noise sensitivity following concussion: A cross-sectional study. Pediatric Research in Sports Medicine (PRiSM) 11th annual meeting. Columbus, OH. 
+85.	Kniss JR, **Wingerson MJ,** Smulligan KL, Greene N, Wilson JC, Howell DR. Quality of life among adolescents with and without noise sensitivity following concussion: A cross-sectional study. Pediatric Research in Sports Medicine (PRiSM) 11th annual meeting. Columbus, OH. Poster Presentation.
 
 86.	Kniss JR, Smulligan KL, **Wingerson MJ,** Magliato SN, Lugade V, Wilson JC, Howell DR. Virtual Neuromuscular Training’s Effect on Gait Temporal-Distance Metrics, Balance, and Reaction Time in Uninjured Adults. American Physical Therapy Association (APTA) Combined Sections Meeting. Houston, TX. February 13-15, 2025. Poster presentation.
 
@@ -418,7 +418,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 98.	Richardson K, Hurlburt K, **Wingerson MJ,** Warren K, Mannix R, Meehan W, Wilson J, Howell DR. Serum tau levels associated with loss of conciousness at time of injury and elevated anxiety ratings post-concussion. Concussion in Sport Group (CISG) 2025 Symposium. Milwaukee, WI. Presentation format pending.
 
-99.	Hurlburt K, Richardson K, **Wingerson MJ,** Kniss J, Wilson J, Howell DR. Concussion history and recency: Associations with current concussion symptom severity and balance. Concussion in Sport Group (CISG) 2025 Symposium. Milwaukee, WI. 
+99.	Hurlburt K, Richardson K, **Wingerson MJ,** Kniss J, Wilson J, Howell DR. Concussion history and recency: Associations with current concussion symptom severity and balance. Concussion in Sport Group (CISG) 2025 Symposium. Milwaukee, WI. Poster presentation.
 
 100. Wilson JC, **Wingerson MJ,** Kniss JR, Porfido T, Esopenko C, Howell DR, Smulligan KL. Neck strength, range of motion, or neck disability index do not impact concussion recovery duration in adolescents. Concussion in Sport Group (CISG) 2025 Symposium. Milwaukee, WI. Poster presentation.
 
@@ -446,7 +446,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 112. Richardson KL, Hurlburt KD, **Wingerson MJ,** Kniss J, Donahue CC, Wilson JC, Howell DR. Psychological readiness to return to sport is associated with recovery time and subsequent injury, but not exercise dosage. 7th Annual Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship. Poster presentation. 
 
-113. Kniss J, **Wingerson MJ,** Smulligan K, Richardson K, Hurlburt K, Lugade V, Wilson J, Howell D. Smartphone-Based Gait Analysis Identifies Deficits Among Adolescents With Concussion Compared to Healthy Controls. University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship. October 22, 2025. Aurora, CO. Podium Presentation. Mack Clayton Travel Award Finalist.
+113. Kniss J, **Wingerson MJ,** Smulligan K, Richardson K, Hurlburt K, Lugade V, Wilson J, Howell D. Smartphone-Based Gait Analysis Identifies Deficits Among Adolescents With Concussion Compared to Healthy Controls. University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship. October 22, 2025. Aurora, CO. Podium Presentation. **Mack Clayton Travel Award Finalist.**
 
 114. Acree J; Donahue C; Smulligan K; Wingerson MJ; Moseley M; Kniss J; Wilson J; Howell DR. Dizziness, Vestibulo-oculomotor Symptoms and their Association with Sleep and Physical Activity After Concussion. Colorado APTA 2025 Conference. Golden, CO. October 3 and 4. Poster Presentation. 
 
@@ -460,21 +460,23 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 ### Other Presentations
 
-1. **Wingerson MJ,** Smulligan KL, Magliato SN, Wilson JC, Baugh CM, Howell DR. Underrepresentation of diverse populations in pediatric concussion randomized clinical trials. University of Colorado Anschutz Rehabilitation Sciences PhD Program: Work in Progress Presentations. November 28, 2022. Podium presentation.
+1. **Wingerson MJ,** Smulligan KL, Magliato SN, Wilson JC, Baugh CM, Howell DR. Underrepresentation of diverse populations in pediatric concussion randomized clinical trials. *University of Colorado Anschutz Rehabilitation Sciences PhD Program: Work in Progress Presentations.* November 28, 2022. Podium presentation.
 
-2. **Wingerson MJ,** Smulligan KL, Magliato SN, Kemp LE, Wilson JC, Breedlove KM, Lin AP, Howell DR. Exercise and neurochemistry in adolescents with concussion: Implications for future research. University of Colorado Anschutz Department of Orthopedics T32 Program: Work in Progress Presentations. April 13, 2023. Podium presentation.
+2. **Wingerson MJ,** Smulligan KL, Magliato SN, Kemp LE, Wilson JC, Breedlove KM, Lin AP, Howell DR. Exercise and neurochemistry in adolescents with concussion: Implications for future research. *University of Colorado Anschutz Department of Orthopedics T32 Program: Work in Progress Presentations.* April 13, 2023. Podium presentation.
 
-3. **Wingerson MJ,** Lemaire AC, Smulligan KL, Magliato SN, Breedlove KM, Lin AP, Wilson JC, Howell DR. Neurochemistry after pediatric concussion: Correlations with exercise frequency, duration, and intensity. University of Colorado Anschutz - Rehabilitation Sciences Symposium. May 5th, 2023. Aurora, CO. Poster Presentation.
+3. **Wingerson MJ,** Lemaire AC, Smulligan KL, Magliato SN, Breedlove KM, Lin AP, Wilson JC, Howell DR. Neurochemistry after pediatric concussion: Correlations with exercise frequency, duration, and intensity. *University of Colorado Anschutz - Rehabilitation Sciences Symposium.* May 5th, 2023. Aurora, CO. Poster Presentation.
 
-4. **Wingerson MJ,** McKinley A. Linguistic threat activates the amygdala: Implications for neurobiological responses to hate speech. University of Colorado Anschutz, Master's of Modern Human Anatomy Program: Neuroscience in the News Presentations. December 7th, 2023. Aurora, CO. Podium Presentation. 
+4. **Wingerson MJ,** McKinley A. Linguistic threat activates the amygdala: Implications for neurobiological responses to hate speech. *University of Colorado Anschutz, Master's of Modern Human Anatomy Program: Neuroscience in the News Presentations.* December 7th, 2023. Aurora, CO. Podium Presentation. 
 
-5. **Wingerson MJ,** Smulligan KL, Magliato SN, Wilson JC, Howell DR. Aerobic exercise as treatment for concussion: Updates from the 2022 Amsterdam consensus statement. University of Colorado Anschutz, Doctor of Physical Therapy Program: Lunch and Learn Presentations. December 7th, 2023. Aurora, CO. Podium Presentation.
+5. **Wingerson MJ,** Smulligan KL, Magliato SN, Wilson JC, Howell DR. Aerobic exercise as treatment for concussion: Updates from the 2022 Amsterdam consensus statement. *University of Colorado Anschutz, Doctor of Physical Therapy Program: Lunch and Learn Presentations.* December 7th, 2023. Aurora, CO. Podium Presentation.
 
-6. **Wingerson MJ,** Smulligan KL, Svoboda E, Magliato SN, Wilson JC, Baugh CM, Howell DR. Inequitable participation of diverse populations in pediatric concussion randomized clinical trials: A systematic review. University of Colorado Anschutz Rehabilitation Sciences PhD Program: Work in Progress Presentations. December 7, 2023. Podium Presentation. 
+6. **Wingerson MJ,** Smulligan KL, Svoboda E, Magliato SN, Wilson JC, Baugh CM, Howell DR. Inequitable participation of diverse populations in pediatric concussion randomized clinical trials: A systematic review. *University of Colorado Anschutz Rehabilitation Sciences PhD Program: Work in Progress Presentations.* December 7, 2023. Podium Presentation.
 
-7. **Wingerson MJ,** Hurlburt K, Richardson K, Wilson JC, Howell DR. Exercise test performance in adolescents with concussion. University of Colorado Anschutz Rehabilitation Sciences Symposium. May 6, 2025. Podium Presentation. 
+7. **Wingerson MJ.** Density-Based Spatial Clustering of Applications with Noise (DBSCAN): An unsupervised learning technique for data with noise. *University of Colorado Anschutz Machine Learning: Student Presentations.* December 8, 2024. Podium Presentation. 
 
-8. **Wingerson MJ,** Hurlburt K, Richardson K, Wilson JC, Howell DR. Prescribing exercise in the absence of exercise testing: Does 50% HRm measure up? 1st International Concussion Research Summit. May 7, 2025. Podium Presentation. 
+8. **Wingerson MJ,** Hurlburt K, Richardson K, Wilson JC, Howell DR. Exercise test performance in adolescents with concussion. *University of Colorado Anschutz Rehabilitation Sciences Symposium.* May 6, 2025. Podium Presentation. 
+
+9. **Wingerson MJ,** Hurlburt K, Richardson K, Wilson JC, Howell DR. Prescribing exercise in the absence of exercise testing: Does 50% HRm measure up? *1st International Concussion Research Summit.* May 7, 2025. Podium Presentation. 
 
 ---
 
@@ -495,19 +497,19 @@ Primary reviewer. *Archives of Clinical Neuropsychology.* Completed July 29, 202
 ## Other Works
 
 #### Contributing to Consensus Clinical Guidelines:
-1. Echemendia RJ, et al. Br J Sports Med 2023; 57:1-3. doi: 10.1136/bjsports-2023-107036. Sport Concussion Assessment Tool 6th Edition. Supplement: Guidelines to using the Sport Concussion Assessment Tool 6t (SCAT6).
-    - Work Cited: **Wingerson MJ,** et al. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. J Athl Train. 2020; 58(2), 106-111.
+1. Echemendia RJ, et al. *Br J Sports Med.* 2023; 57:1-3. doi: 10.1136/bjsports-2023-107036. Sport Concussion Assessment Tool 6th Edition. Supplement: Guidelines to using the Sport Concussion Assessment Tool 6t (SCAT6).
+    - Work Cited: **Wingerson MJ,** et al. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. *J Athl Train.* 2020; 58(2), 106-111.
 
-2. Patricios JS, et al. Br J Sports Med 2023; 57:737-748. doi: 10.1136/bjsports-2023-106897. Beyond acute concussion assessment to office management: A systematic review informing the development of a Sport Concussion Office Assessment Tool (SCOAT6) for adults and children. 
-    - Work Cited: **Wingerson MJ,** et al. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. J Athl Train. 2020; 58(2), 106-111. 
+2. Patricios JS, et al. *Br J Sports Med.* 2023; 57:737-748. doi: 10.1136/bjsports-2023-106897. Beyond acute concussion assessment to office management: A systematic review informing the development of a Sport Concussion Office Assessment Tool (SCOAT6) for adults and children. 
+    - Work Cited: **Wingerson MJ,** et al. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. *J Athl Train.* 2020; 58(2), 106-111. 
 
 #### International Conference Presentations:
-1. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Significance: This meeting of international experts summarized evidence-informed principles of concussion prevention, assessment and management, and emphasized areas requiring more research. Held every 4 years. 
-    - Presentation: **Wingerson MJ,** Seehusen CN, Smulligan KL, Wilson JC, Howell DR. Combined effect of sleep and exercise soon after concussion on symptom duration among adolescents. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Poster presentation.
-    - Presentation: **Wingerson MJ,** Rademacher JG, Smulligan KL, Little CC, Wilson JC, Howell DR. Higher intensity daily physical activity during concussion recovery is associated with reduced symptom duration. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Poster presentation.
+1. *6th International Consensus Conference on Concussion in Sport.* October 27 – 28, 2022. Amsterdam, Netherlands. **Significance:** This meeting of international experts summarized evidence-informed principles of concussion prevention, assessment and management, and emphasized areas requiring more research. Held every 4 years. 
+    - Presentation: **Wingerson MJ,** Seehusen CN, Smulligan KL, Wilson JC, Howell DR. Combined effect of sleep and exercise soon after concussion on symptom duration among adolescents. *6th International Consensus Conference on Concussion in Sport.* October 27 – 28, 2022. Amsterdam, Netherlands. Poster presentation.
+    - Presentation: **Wingerson MJ,** Rademacher JG, Smulligan KL, Little CC, Wilson JC, Howell DR. Higher intensity daily physical activity during concussion recovery is associated with reduced symptom duration. *6th International Consensus Conference on Concussion in Sport.* October 27 – 28, 2022. Amsterdam, Netherlands. Poster presentation.
 
-2. 7th International Olympic Committee (IOC) World Conference on Prevention of Injury and Illness in Sport. February 29 – March 2, 2024. Significance: This meeting is a premier conference for those researching clinical aspects of sports and exercise medicine. Diverse faculty represent the pre-eminent international authorities in injury and illness prevention. Held every 3 years. 
-    - Work Cited: **Wingerson MJ,** Mannix RC, Carry PM, Meier TB, Smulligan KL, Wilson JC, Howell DR. Preventing mental illness and suicidality as secondary sequelae of sport-related concussion in adolescents. 7th International Olympic Committee World Conference on Prevention of Injury and Illness in Sport. February 29 – March 2, 2024. Monaco City, Monaco. Full Oral Presentation. 
+2. *7th International Olympic Committee (IOC) World Conference on Prevention of Injury and Illness in Sport.* February 29 – March 2, 2024. **Significance:** This meeting is a premier conference for those researching clinical aspects of sports and exercise medicine. Diverse faculty represent the pre-eminent international authorities in injury and illness prevention. Held every 3 years. 
+    - Work Cited: **Wingerson MJ,** Mannix RC, Carry PM, Meier TB, Smulligan KL, Wilson JC, Howell DR. Preventing mental illness and suicidality as secondary sequelae of sport-related concussion in adolescents. *7th International Olympic Committee World Conference on Prevention of Injury and Illness in Sport.* February 29 – March 2, 2024. Monaco City, Monaco. Full Oral Presentation. 
 
 #### Podcast Expisodes:
 1. Journal of Athletic Training: JATChat. Emerging Concussion Assessments. April 5, 2023. https://jatcast.podbean.com/e/jatchat-emerging-concussion-assessments/  
@@ -523,19 +525,19 @@ To add in later:
 
 ## Honors and Awards
 
-#### Top Trainee/Pre-Doctoral Presentation Finalist:
+**Top Trainee/Pre-Doctoral Presentation Finalist**  
 *University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship.* November 14, 2020. Anschutz Medical Campus, Aurora, CO.  
 
-#### Mack Clayton Pre-Doctoral Presentation Award:
+**Mack Clayton Pre-Doctoral Presentation Award**  
 *University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship.* November 14, 2020. Anschutz Medical Campus, Aurora, CO.  
 
-#### Mack Clayton Travel Award:
+**Mack Clayton Travel Award**  
 *University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship.* November 14, 2020. Anschutz Medical Campus, Aurora, CO. $1000  
 
-#### Top Poster Award Finalist:
+**Top Poster Award Finalist**  
 *Pediatric Research in Sports Medicine Society (PRiSM).* January 27-29, 2022. Houston, TX.
 
-#### Top Trainee/Pre-Doctoral Presentation Finalist:
+**Top Trainee/Pre-Doctoral Presentation Finalist**  
 *University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship.* October 23, 2024. Anschutz Medical Campus, Aurora, CO.
 
 ---
@@ -543,35 +545,35 @@ To add in later:
 ## Supervised Research Trainees
 
 #### Undergratuate Students:
-- Jake Rademacher. University of Denver, College of Natural Sciences and Mathematics. Fall 2021 - Spring 2023.
-- Zachary Salfi. University of North Carolina. Summer 2025 - Present. 
+- Jake Rademacher. *University of Denver, College of Natural Sciences and Mathematics.* Fall 2021 - Spring 2023.
+- Zachary Salfi. *University of North Carolina.* Summer 2025 - Present. 
 
 #### Graduate Students:
-- Nicole Szeto. University of Colorado Anschutz, Graduate School. Fall 2022 - Fall 2023.
-- Bailey Schmitz. Northern Arizona University, Doctor of Occupational Therapy Program. Fall 2021 - Spring 2022. 
-- Sammuel Messenger. University of Colorado Anschutz, Master of Epidemiology Program. Fall 2022 - Fall 2023. 
-- Ross Moseley, University of Colorado Anschutz, School of Medicine. Fall 2024 - Present. 
+- Nicole Szeto. *University of Colorado Anschutz, Graduate School.* Fall 2022 - Fall 2023.
+- Bailey Schmitz. *Northern Arizona University, Doctor of Occupational Therapy Program.* Fall 2021 - Spring 2022. 
+- Sammuel Messenger. *University of Colorado Anschutz, Master of Epidemiology Program.* Fall 2022 - Fall 2023. 
+- Ross Moseley, *University of Colorado Anschutz, School of Medicine.* Fall 2024 - Present. 
 
 #### Research Trainees:
-- Katelyn Hurlburt. University of Colorado Anschutz, Colorado Concussion Research Laboratory. Spring 2025 - Present.
-- Meghan Whalen. Boston Children's Hospital, Micheli Center for Sports Injury Prevention. Spring 2025 - Present. 
+- Katelyn Hurlburt. *University of Colorado Anschutz, Colorado Concussion Research Laboratory.* Spring 2025 - Present.
+- Meghan Whalen. *Boston Children's Hospital, Micheli Center for Sports Injury Prevention.* Spring 2025 - Present. 
 
 --- 
 
 ## References
 
-#### David Howell, PhD, ATC.
+**David Howell, PhD, ATC.**  
 Associate Professor, Department of Orthopedics, University of Colorado School of Medicine.  
 Lead Researcher, Sports Medicine Center, Children's Hospital Colorado.  
 Lead Researcher, Colorado Concussion Research Laboratory, University of Colorado School of Medicine.  
 *Contact information available uppon request*
 
-#### Julie Wilson, MD. 
+**Julie Wilson, MD.**  
 Attending Physician, Sports Medicine Center, Children's Hospital Colorado.  
 Associate Professor, Department of Orthopedics, University of Colorado School of Medicine.  
 *Contact information available uppon request*
 
-#### Patrick Carry, PhD. 
+**Patrick Carry, PhD.**  
 Assistant Professor, Department of Orthopedics, University of Colorado School of Medicine.  
 Lead Statistician, Colorado Concussion Research Laboratory, University of Colorado School of Medicine.  
 *Contact information available uppon request*
