@@ -461,13 +461,64 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 ### Other Presentations
 
+1. Wingerson MJ, Smulligan KL, Magliato SN, Wilson JC, Baugh CM, Howell DR. Underrepresentation of diverse populations in pediatric concussion randomized clinical trials. University of Colorado Anschutz Rehabilitation Sciences PhD Program: Work in Progress Presentations. November 28, 2022. Podium presentation.
+
+2. Wingerson MJ, Smulligan KL, Magliato SN, Kemp LE, Wilson JC, Breedlove KM, Lin AP, Howell DR. Exercise and neurochemistry in adolescents with concussion: Implications for future research. University of Colorado Anschutz Department of Orthopedics T32 Program: Work in Progress Presentations. April 13, 2023. Podium presentation.
+
+3. Wingerson MJ, Lemaire AC, Smulligan KL, Magliato SN, Breedlove KM, Lin AP, Wilson JC, Howell DR. Neurochemistry after pediatric concussion: Correlations with exercise frequency, duration, and intensity. University of Colorado Anschutz - Rehabilitation Sciences Symposium. May 5th, 2023. Aurora, CO. Poster Presentation.
+
+4. Wingerson MJ, McKinley A. Linguistic threat activates the amygdala: Implications for neurobiological responses to hate speech. University of Colorado Anschutz, Master's of Modern Human Anatomy Program: Neuroscience in the News Presentations. December 7th, 2023. Aurora, CO. Podium Presentation. 
+
+5. Wingerson MJ, Smulligan KL, Magliato SN, Wilson JC, Howell DR. Aerobic exercise as treatment for concussion: Updates from the 2022 Amsterdam consensus statement. University of Colorado Anschutz, Doctor of Physical Therapy Program: Lunch and Learn Presentations. December 7th, 2023. Aurora, CO. Podium Presentation.
+
+6. Wingerson MJ, Smulligan KL, Svoboda E, Magliato SN, Wilson JC, Baugh CM, Howell DR. Inequitable participation of diverse populations in pediatric concussion randomized clinical trials: A systematic review. University of Colorado Anschutz Rehabilitation Sciences PhD Program: Work in Progress Presentations. December 7, 2023. Podium Presentation. 
+
+7. Wingerson MJ, Hurlburt K, Richardson K, Wilson JC, Howell DR. Exercise test performance in adolescents with concussion. University of Colorado Anschutz Rehabilitation Sciences Symposium. May 6, 2025. Podium Presentation. 
+
+8. Wingerson MJ, Hurlburt K, Richardson K, Wilson JC, Howell DR. Prescribing exercise in the absence of exercise testing: Does 50% HRm measure up? 1st International Concussion Research Summit. May 7, 2025. Podium Presentation. 
+
 ---
 
 ## Provided Peer-Reviews
 
+Assisting reviewer (primary reviewer: David R Howell). *Clinical Journal of Sports Medicine.* Completed August 1, 2023.  
+
+Primary reviewer. *Archives of Clinical Neuropsychology.* Completed August 1, 2023.  
+
+Primary reviewer. *Sports Medicine.* Completed January 15, 2024.  
+
+Primary reviewer. *Frontiers in Public Health.* Completed May 21, 2025.  
+
+Primary reviewer. *Archives of Clinical Neuropsychology.* Completed July 29, 2025.  
+
 ---
 
 ## Other Works
+
+#### Contributing to Consensus Clinical Guidelines:
+1. Echemendia RJ, et al. Br J Sports Med 2023; 57:1-3. doi: 10.1136/bjsports-2023-107036. Sport Concussion Assessment Tool 6th Edition. Supplement: Guidelines to using the Sport Concussion Assessment Tool 6t (SCAT6).
+    a. Work Cited: Wingerson et al. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. J Athl Train. 2020; 58(2), 106-111.
+
+2. Patricios JS, et al. Br J Sports Med 2023; 57:737-748. doi: 10.1136/bjsports-2023-106897. Beyond acute concussion assessment to office management: A systematic review informing the development of a Sport Concussion Office Assessment Tool (SCOAT6) for adults and children. 
+    a. Work Cited: Wingerson et al. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. J Athl Train. 2020; 58(2), 106-111. 
+
+#### International Conference Presentations:
+1. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Significance: This meeting of international experts summarized evidence-informed principles of concussion prevention, assessment and management, and emphasized areas requiring more research. Held every 4 years. 
+    a. Presentation: Wingerson MJ, Seehusen CN, Smulligan KL, Wilson JC, Howell DR. Combined effect of sleep and exercise soon after concussion on symptom duration among adolescents. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Poster presentation.
+    b. Presentation: Wingerson MJ, Rademacher JG, Smulligan KL, Little CC, Wilson JC, Howell DR. Higher intensity daily physical activity during concussion recovery is associated with reduced symptom duration. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Poster presentation.
+
+2. 7th International Olympic Committee (IOC) World Conference on Prevention of Injury and Illness in Sport. February 29 – March 2, 2024. Significance: This meeting is a premier conference for those researching clinical aspects of sports and exercise medicine. Diverse faculty represent the pre-eminent international authorities in injury and illness prevention. Held every 3 years. 
+    a. Work Cited: Wingerson MJ, Mannix RC, Carry PM, Meier TB, Smulligan KL, Wilson JC, Howell DR. Preventing mental illness and suicidality as secondary sequelae of sport-related concussion in adolescents. 7th International Olympic Committee World Conference on Prevention of Injury and Illness in Sport. February 29 – March 2, 2024. Monaco City, Monaco. Full Oral Presentation. 
+
+#### Podcast Expisodes:
+1. Journal of Athletic Training: JATChat. Emerging Concussion Assessments. April 5, 2023. https://jatcast.podbean.com/e/jatchat-emerging-concussion-assessments/  
+
+#### In the News:
+1. https://www.msn.com/en-us/health/other/study-investigates-flag-football-s-affect-on-girl-s-physical-mental-health/ar-AA1JYIZA  
+
+
+To add in later:
+- Anything interesting from my github that didn't result in a paper/presentation
 
 ---
 
