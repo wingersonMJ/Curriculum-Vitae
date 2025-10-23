@@ -11,8 +11,8 @@ Phone: 816.801.3238
 
 ## Table of Contents
 
-1. [Education](#Education:)
-2. [Professional Experience](#Professional-Experience:)
+1. [Education](#Education)
+2. [Professional Experience](#Professional-Experience)
 3. [Funding History](#Funding-History)
 4. [Peer-Reviewed Publications](#Peer-Reviewed-Publications)
     - [First Authored](#First-Authored)
@@ -29,7 +29,7 @@ Phone: 816.801.3238
 
 --- 
 
-## Education:
+## Education
 
 ### Doctor of Philosophy: Rehabilitation Sciences
 Expected: 2026  
@@ -50,7 +50,7 @@ Simpson College, Department of Psychology, Indianola, IA.
 
 ---
 
-## Profesional Experience:
+## Profesional Experience
 
 ### PhD Student/Candidate Researcher
 
