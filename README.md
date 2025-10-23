@@ -603,7 +603,8 @@ Lead Statistician, Colorado Concussion Research Laboratory, University of Colora
 
 ---
 
-**Other:**  
+<!---
 git config --global alias.cv "!git pull --rebase origin main && git push origin main""git pull --rebase origin main && git push origin main"  
 - Solves the issue of having to manually pull and merge every time I want to push to remote from local... 
 - ...becuse remote will always be one commit ahead of local based on action rule. 
+--->
