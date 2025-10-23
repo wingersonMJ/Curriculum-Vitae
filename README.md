@@ -497,18 +497,18 @@ Primary reviewer. *Archives of Clinical Neuropsychology.* Completed July 29, 202
 
 #### Contributing to Consensus Clinical Guidelines:
 1. Echemendia RJ, et al. Br J Sports Med 2023; 57:1-3. doi: 10.1136/bjsports-2023-107036. Sport Concussion Assessment Tool 6th Edition. Supplement: Guidelines to using the Sport Concussion Assessment Tool 6t (SCAT6).
-    a. Work Cited: Wingerson et al. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. J Athl Train. 2020; 58(2), 106-111.
+    - Work Cited: Wingerson et al. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. J Athl Train. 2020; 58(2), 106-111.
 
 2. Patricios JS, et al. Br J Sports Med 2023; 57:737-748. doi: 10.1136/bjsports-2023-106897. Beyond acute concussion assessment to office management: A systematic review informing the development of a Sport Concussion Office Assessment Tool (SCOAT6) for adults and children. 
-    a. Work Cited: Wingerson et al. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. J Athl Train. 2020; 58(2), 106-111. 
+    - Work Cited: Wingerson et al. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. J Athl Train. 2020; 58(2), 106-111. 
 
 #### International Conference Presentations:
 1. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Significance: This meeting of international experts summarized evidence-informed principles of concussion prevention, assessment and management, and emphasized areas requiring more research. Held every 4 years. 
-    a. Presentation: Wingerson MJ, Seehusen CN, Smulligan KL, Wilson JC, Howell DR. Combined effect of sleep and exercise soon after concussion on symptom duration among adolescents. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Poster presentation.
-    b. Presentation: Wingerson MJ, Rademacher JG, Smulligan KL, Little CC, Wilson JC, Howell DR. Higher intensity daily physical activity during concussion recovery is associated with reduced symptom duration. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Poster presentation.
+    - Presentation: Wingerson MJ, Seehusen CN, Smulligan KL, Wilson JC, Howell DR. Combined effect of sleep and exercise soon after concussion on symptom duration among adolescents. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Poster presentation.
+    - Presentation: Wingerson MJ, Rademacher JG, Smulligan KL, Little CC, Wilson JC, Howell DR. Higher intensity daily physical activity during concussion recovery is associated with reduced symptom duration. 6th International Consensus Conference on Concussion in Sport. October 27 – 28, 2022. Amsterdam, Netherlands. Poster presentation.
 
 2. 7th International Olympic Committee (IOC) World Conference on Prevention of Injury and Illness in Sport. February 29 – March 2, 2024. Significance: This meeting is a premier conference for those researching clinical aspects of sports and exercise medicine. Diverse faculty represent the pre-eminent international authorities in injury and illness prevention. Held every 3 years. 
-    a. Work Cited: Wingerson MJ, Mannix RC, Carry PM, Meier TB, Smulligan KL, Wilson JC, Howell DR. Preventing mental illness and suicidality as secondary sequelae of sport-related concussion in adolescents. 7th International Olympic Committee World Conference on Prevention of Injury and Illness in Sport. February 29 – March 2, 2024. Monaco City, Monaco. Full Oral Presentation. 
+    - Work Cited: Wingerson MJ, Mannix RC, Carry PM, Meier TB, Smulligan KL, Wilson JC, Howell DR. Preventing mental illness and suicidality as secondary sequelae of sport-related concussion in adolescents. 7th International Olympic Committee World Conference on Prevention of Injury and Illness in Sport. February 29 – March 2, 2024. Monaco City, Monaco. Full Oral Presentation. 
 
 #### Podcast Expisodes:
 1. Journal of Athletic Training: JATChat. Emerging Concussion Assessments. April 5, 2023. https://jatcast.podbean.com/e/jatchat-emerging-concussion-assessments/  
