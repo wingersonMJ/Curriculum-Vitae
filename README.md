@@ -101,11 +101,11 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 6.	**Wingerson MJ,** Hunt DL, Wilson JC, Mannix RC, Meehan WP, Howell DR. Factors associated with symptom resolution after aerobic exercise intervention in adolescent and young adults with concussion. *J Sci Med Sports Exerc.* 2024:26(3)183-188. doi: 10.1249/MSS.0000000000003358.
 
-7.	***ingerson MJ,** Carry P, Mannix R, Meier T, Smulligan KL, Wilson JC, Howell DR. Concussion and depressive symptoms in high school students: Impact of physical activity and substance use. *Br J Sports Med.* 2025 Jan 20:bjsports-2024-109029. doi: 10.1136/bjsports-2024-109029.
+7.	**Wingerson MJ,** Carry P, Mannix R, Meier T, Smulligan KL, Wilson JC, Howell DR. Concussion and depressive symptoms in high school students: Impact of physical activity and substance use. *Br J Sports Med.* 2025 Jan 20:bjsports-2024-109029. doi: 10.1136/bjsports-2024-109029.
 
 8.	**Wingerson MJ,** Smulligan KL, Svoboda E, Baugh CM, Magliato SN, Wilson JC, Howell DR. Who are the participants in pediatric concussion randomized clinical trials? A meta-epidemiology study. *The Journal of Orthopaedic & Sports Physical Therapy (JOSPT) Open.* In press, accepted April 22, 2025.
 
-9.	***ingerson MJ,** Smulligan KL, Baugh CM, Wilson JC, Howell DR. Are we engaging in consistent and equitable reporting of demographics in clinical research? *The Journal of Orthopaedic & Sports Physical Therapy (JOSPT) Open.* In press, accepted May 5, 2025.
+9.	**Wingerson MJ,** Smulligan KL, Baugh CM, Wilson JC, Howell DR. Are we engaging in consistent and equitable reporting of demographics in clinical research? *The Journal of Orthopaedic & Sports Physical Therapy (JOSPT) Open.* In press, accepted May 5, 2025.
 
 ### Co-Authored
 
@@ -158,6 +158,8 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 24.	Smulligan KL, Magliato SN, **Wingerson MJ,** Lugade V, Wilson, JC, Howell DR. Virtual Neuromuscular Training: Preliminary Findings Using an Injury Prevention Program for Physically Active Young Adults. *Journal of Sport Rehabilitation.* In press, accepted July 27, 2025.
 
 25.	Moseley RR, **Wingerson MJ,** Richardson KL, Hurlburt KD, Warren K, Wilson JC, Meehan WP, Mannix R, Howell DR. Post-concussion physical activity frequency and plasma biomarkers associations among adolescents. *In review at… tbd.*
+
+26. Smulligan KL, **Wingerson MJ,** Armento AM, Meehan WP, Wilson JC, Howell DR. Sex differences in physical activity and energy expenditure after adolescent concussion. *In review at Medicine & Science in Sports & Exercise (MSSE).*
 
 ---
 
@@ -456,7 +458,9 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 117. Hurlburt KD, **Wingerson MJ,** Moseley RR, Richardson KL, Kniss JR, Wilson JC, Howell DR. Post-concussion exercise duration is longer among adolescents with ADHD. American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Presentation format pending. 
 
-118. Richardson KL, Hurlburt KD, **Wingerson MJ,** Warren K, Wilson JC, Mannix R, Meehan W, Howell DR. Plasma biomarkers of inflammation after concussion symptom resolution: Associations with subsequent injury risk. International Pediatric Brain Injury Society. May 2026. Calgary, CAN. Presentation format pending. 
+118. Richardson KL, Hurlburt KD, **Wingerson MJ,** Warren K, Wilson JC, Mannix R, Meehan W, Howell DR. Plasma biomarkers of inflammation after concussion symptom resolution: Associations with subsequent injury risk. International Pediatric Brain Injury Society. May 2026. Calgary, CAN. Presentation format pending.
+
+119. Wunderlich L, Richardson KL, Hurlburt KD, Donahue CC, **Wingerson MJ,** Wilson JC, Armento A, Howell DR. Post-concussion exercise volume is associated with menstrual dysfunction in female adolescents. American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Presentation format pending. 
 
 ### Other Presentations
 
@@ -527,6 +531,12 @@ Primary reviewer. *Archives of Clinical Neuropsychology.* Completed July 29, 202
     - [GitHub Repo](https://github.com/wingersonMJ/Neural_net_example)
 
 #### Web Apps (to update later):
+1. Predicting Exercise Test Heart Rate After Concussion (sandbox/non-production version)
+    - [Project GitHub](https://github.com/wingersonMJ/Exercise_test_HRm)
+    - [Simple Application](https://wingersonmj.github.io/Exercise_test_HRm/)
+
+
+
 1. R shiny for random forest project
 2. App for HRm Prediction
 3. App for PRiSM presentation
