@@ -7,7 +7,7 @@ Aurora, CO, US
 
 Email: Mathew.Wingerson@CUAnschutz.edu  
 Phone: 816.801.3238  
-[GitHub (@WingersonMJ)](https://github.com/wingersonMJ) || [LinkedIn](www.linkedin.com/in/wingersonmj) || [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/mathew.wingerson.1/bibliography/public/) || [Posters/Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
+[GitHub (@WingersonMJ)](https://github.com/wingersonMJ) || [linkedin](https://www.linkedin.com/in/mat-wingerson/) || [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/mathew.wingerson.1/bibliography/public/) || [Posters/Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
 
 ## Table of Contents
 
