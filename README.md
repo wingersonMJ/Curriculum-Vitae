@@ -223,6 +223,8 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 28. **Wingerson MJ,** Keeter C, Carry P, Smulligan KL, Wilson JC, Halstead M, Miller S, Santana J, Valovich McLeod T, Zaslow T, Master C, Grady M, Snedden T, Fazekas M, Coel R, Howell DR. Machine Learning to Identify Patients at Risk of Developing Anxiety/Depression Symptoms After Adolescent Concussion: Findings from the PRiSM Concussion RIG. *University of Colorado 6th Annual Orthopedic Research Symposium & D’Ambrosia Diversity.* October 23, 2024. Aurora, CO. Podium Presentation. **Mack Clayton Pre-Doctoral Trainee Award Finalist.**
 
+29. **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. A decision tree framework for clinically intuitive prediction of persisiting symptoms after concussion. *American College of Sports Medicine (ACSM), 2026 Annual Meeting & World Congress.* May 26-29. Salt Lake City, UT. Presentation format pending. 
+
 ### Co-Author
 
 1. Wilson JC, Seehusen CN, Smulligan KL, **Wingerson MJ,** Howell DR. Sleep quality and functional outcomes during pediatric concussion recovery. American Medical Society for Sports Medicine (AMSSM). April 13-18, 2021. Hybrid Conference. Virtual poster presentation.
