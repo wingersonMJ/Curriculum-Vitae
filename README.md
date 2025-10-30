@@ -526,33 +526,48 @@ Primary reviewer. *Archives of Clinical Neuropsychology.* Completed July 29, 202
     - [GitHub Repo](https://github.com/wingersonMJ/PropensityBatchRandomization)
     - [PyPI Project Page](https://pypi.org/project/propensitybatchrandomization/)
 
-#### Neural Network From Scratch Example:
+#### Neural Network Examples:
 1. Neural Network From Scratch: Building a neural network, with forward passes and backpropogation for weight/bias updates, from scratch using just numpy. 
     - [GitHub Repo](https://github.com/wingersonMJ/Neural_net_example)
+2. Predicting Cancerous Cells using Gene Expression Data: A fully connected neural network using gene expression to differentiate cancerous from non-cancerous cells.
+    - [GitHub Repo](https://github.com/wingersonMJ/ML_DL_and_CNN_projects/tree/main/Neural%20Networks/Cancer%20Prediction)
+3. Convolutional Neural Network: Predicting skin lesion types from images of skin lesions. A multi-class classification problem implemented in PyTorch. 
+    - [GitHub Repo](https://github.com/wingersonMJ/ML_DL_and_CNN_projects/tree/main/Convolutional%20Networks/Skin%20Lesion%20Multi-Class%20Classification)
+4. See NeurIPS 2025 Submission below. 
 
-#### Web Apps (to update later):
+#### Web Apps:
 1. Predicting Exercise Test Heart Rate After Concussion (sandbox/non-production version)
     - [Project GitHub](https://github.com/wingersonMJ/Exercise_test_HRm)
-    - [Simple Application](https://wingersonmj.github.io/Exercise_test_HRm/)
+    - [Application Link](https://wingersonmj.github.io/Exercise_test_HRm/)
+2. Visualizing the Colorado Concussion Research Laboratory presentations at an upcoming conference: Connections with the various post-concussion health domains we study.
+    - [Project GitHub](https://github.com/wingersonMJ/Research_Lab_Presentations_App)
+    - [Application Link](https://wingersonmj.shinyapps.io/017_lab_papers_app/)
+3. Random Forest Prediction of Non-Resolving Anxiety/Depression Symptoms After Concussion: Multi-site predictions using clinical data. 
+    - [Project GitHub](https://github.com/wingersonMJ/Random_Forest_Predicting_Mental_Health_Outcomes)
+    - [Application Link](https://wingersonmj.shinyapps.io/scope_app/)
 
-
-
-1. R shiny for random forest project
-2. App for HRm Prediction
-3. App for PRiSM presentation
-4. App for lab papers
-
-#### NEURIPS Submission:
-1. Add NEURIPS submission
-
-#### Side-Projects in Deep Learning:
-1. Add everying from DL class
+#### NeurIPS Submission:
+1. Submitted work to NeurIPS 2025. 
+    - **Project Summary:** This study introduces a neural network approach using ordinal embeddings of health-related behaviors to predict substance use risk. We propose that adjacent health-related behaviors can 
+    predict substance use, and that a model with ordinal embeddings can successfully distinguish between adolescents using substances and non-users with enough success to be clinically feasible. We also demonstrate 
+    improved generalizability to unseen data when including ordinal embedding in the model compared to traditional one-hot encoding of data, at least within the context of predicting adolescent substance use.
+    - [GitHub Repo](https://github.com/wingersonMJ/2025_NeurIPS_Submission)
 
 #### Side-Projects in Machine Learning:
-1. Add everying from ML class
+1. Clustering Algorithms (K-Means, DBSCAN, OPTICS): Unsupervised clustering to identify cell types based on gene expression characteristics. 
+    - [GitHub Repo](https://github.com/wingersonMJ/ML_DL_and_CNN_projects/tree/main/Clustering%20Algorithms%20-%20KMeans%2C%20DBSCAN%2C%20OPTICS)
+2. Quick Gradient Descent Example: Exploring gradient descent in a single-layer neural network (from scratch, but without activation function (i.e., just linear representations)).
+    - [GitHub Repo](https://github.com/wingersonMJ/ML_DL_and_CNN_projects/tree/main/Quick%20Gradient%20Descent%20Example)
+3. Support Vector Machines and Random Forests: Predicting brain stroke using clinical and self-report data on known risk factors. 
+    - [GitHub Repo](https://github.com/wingersonMJ/ML_DL_and_CNN_projects/tree/main/SVM%2C%20Random%20Forest%20Example)
+4. Exploring grid search, sampling techniques, and sample weights for datasets with imbalanced target variables. 
+    - [GitHub Repo](https://github.com/wingersonMJ/fun_with_grid_search_and_sampling)
 
-#### Decision Tree Analysis:
-1. Add decision tree paper and code
+#### Random Forests and Decision Trees:
+1. A decision tree framework for clinically intuitive prediction of persisting symptoms after concussion. 
+    - [GitHub Repo](https://github.com/wingersonMJ/Decision_tree_prediction)
+2. Random Forest Prediction of Non-Resolving Anxiety/Depression Symptoms After Concussion: Multi-site predictions using clinical data. 
+    - [Project GitHub](https://github.com/wingersonMJ/Random_Forest_Predicting_Mental_Health_Outcomes)
 
 ---
 
