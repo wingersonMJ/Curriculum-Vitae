@@ -87,6 +87,8 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 ## Peer-Reviewed Publications 
 
+**Total Collaborating Authors:** 37 (last updated 11/04/2025)  
+
 ### First Authored
 
 1. **Wingerson MJ,** Seehusen CN, Walker GA, Wilson JC, Howell DR. Clinical feasibility and utility of a dual-task tandem gait protocol for pediatric concussion management. *Journal of Athletic Training.* 2020 Nov 5;58(2):106-111. DOI: 10.4085/323-20.
@@ -164,6 +166,8 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 ---
 
 ## Peer-Reviewed Conference Presentations
+
+**Total Collaborating Authors:** 86 (last updated 11/04/2025)  
 
 ### Presenting Author
 
