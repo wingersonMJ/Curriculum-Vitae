@@ -303,7 +303,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 38.	Smulligan KL, **Wingerson MJ,** Little CC, Wilson JC, Howell DR. Sleep quality, dizziness, and postural stability outcomes following early post-concussion physical activity. Pediatric Research in Sports Medicine (PRiSM) 10th annual meeting. February 2 – 4, 2023. Denver, CO. Not accepted for presentation.
 
-39.	Heronemus M, **Wingerson MJ,** Magliato SN, Smulligan KL, Wilson JC, Vipul L, Howell DR. Concussion history is associates with post-concussion dual-task cognitive performance among adolescents using a smartphone-based evaluation. Pediatric Research in Sports Medicine (PRiSM) 10th annual meeting. February 2 – 4, 2023. Denver, CO. Electronic Poster Presentation.
+39.	Heronemus M, **Wingerson MJ,** Magliato SN, Smulligan KL, Wilson JC, Lugade V, Howell DR. Concussion history is associates with post-concussion dual-task cognitive performance among adolescents using a smartphone-based evaluation. Pediatric Research in Sports Medicine (PRiSM) 10th annual meeting. February 2 – 4, 2023. Denver, CO. Electronic Poster Presentation.
 
 40.	Seehusen CN, **Wingerson MJ,** Magliato SN, Smulligan KL, Wilson JC, Howell DR. Headache sub-types and NSAID use in youth concussion. Pediatric Research in Sports Medicine (PRiSM) 10th annual meeting. February 2 – 4, 2023. Denver, CO. Not accepted for presentation.
 
@@ -418,7 +418,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 96.	Donahue CC, Smulligan KL, **Wingerson MJ,** Kniss JR, Simson SL, Hatolkar V, Breedlove K, Lin AP, Wilson JC, Howell DR. Sleep quality, lactate, and neuronal integrity: Evidence for compounded effects in adolescent brain injury recovery. Concussion in Sport Group (CISG) 2025 Symposium. Milwaukee, WI. Presentation format pending.
 
-97.	Moseley R, **Wingerson MJ,** Smulligan KL, Htalkar V, Breedlove KM, Lin AP, Wilson JC, Howell DR. Neurometabolite measurement through magnetic resonance spectroscopy is associated with physical activity after pediatric concussion. Concussion in Sport Group (CISG) 2025 Symposium. Milwaukee, WI. Presentation format pending.
+97.	Moseley R, **Wingerson MJ,** Smulligan KL, Hatolkar V, Breedlove KM, Lin AP, Wilson JC, Howell DR. Neurometabolite measurement through magnetic resonance spectroscopy is associated with physical activity after pediatric concussion. Concussion in Sport Group (CISG) 2025 Symposium. Milwaukee, WI. Presentation format pending.
 
 98.	Richardson K, Hurlburt K, **Wingerson MJ,** Warren K, Mannix R, Meehan W, Wilson J, Howell DR. Serum tau levels associated with loss of conciousness at time of injury and elevated anxiety ratings post-concussion. Concussion in Sport Group (CISG) 2025 Symposium. Milwaukee, WI. Presentation format pending.
 
@@ -456,7 +456,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 115. Giffen SF, **Wingerson MJ,** Kniss JR, Simon SL, Mannix R, Meehan WP,  Wilson JC, Howell DR, Donahue CC. Persistent Sleep Problems Among Adolescents Post-Concussion: A Longitudinal Investigation of Sleep Quality Across Recovery Phases. University of Colorado Orthopedic Research Symposium & D’Ambrosia Diversity Lectureship. October 22, 2025. Aurora, CO. Poster Presentation.
 
-116. Howell DR, Hurlburt K, Richardson K, Kniss J, Winderlich L, **Wingerson MJ,** Wilson JC. The influence of exercise volume and intensity on depressive symptoms following concussion. International Pediatric Brain Injury Society. May 2026. Calgary, CAN. Presentation format pending. 
+116. Howell DR, Hurlburt K, Richardson K, Kniss J, Wunderlich L, **Wingerson MJ,** Wilson JC. The influence of exercise volume and intensity on depressive symptoms following concussion. International Pediatric Brain Injury Society. May 2026. Calgary, CAN. Presentation format pending. 
 
 117. Hurlburt KD, **Wingerson MJ,** Moseley RR, Richardson KL, Kniss JR, Wilson JC, Howell DR. Post-concussion exercise duration is longer among adolescents with ADHD. American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Presentation format pending. 
 
