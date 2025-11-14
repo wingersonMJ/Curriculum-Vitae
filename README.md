@@ -232,6 +232,8 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 29. **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. A decision tree framework for clinically intuitive prediction of persisiting symptoms after concussion. *American College of Sports Medicine (ACSM), 2026 Annual Meeting & World Congress.* May 26-29. Salt Lake City, UT. Presentation format pending. 
 
+30. **Wingerson MJ,** A patients-like-me approach to aggregating data in clinical management of adolescent concussion. *2026 Culture of Data: Colorado Public Health Association.* April 15, 2026. Denver, CO. Presentation format pending. 
+
 ### Co-Author
 
 1. Wilson JC, Seehusen CN, Smulligan KL, **Wingerson MJ,** Howell DR. Sleep quality and functional outcomes during pediatric concussion recovery. American Medical Society for Sports Medicine (AMSSM). April 13-18, 2021. Hybrid Conference. Virtual poster presentation.
@@ -567,13 +569,16 @@ Primary reviewer. *Archives of Clinical Neuropsychology.* Completed July 29, 202
     - [GitHub Repo](https://github.com/wingersonMJ/2025_NeurIPS_Submission)
 
 #### Side-Projects in Machine Learning:
-1. Clustering Algorithms (K-Means, DBSCAN, OPTICS): Unsupervised clustering to identify cell types based on gene expression characteristics. 
+1. A Patients-Like-Me Approach to Aggregating Data in Clinical Management of Adolescent Concussion.
+    - **Project Summary:** Recovery after adolescent concussion is difficult to predict, and communicating realistic recovery timelines is equally challenging. A simple “patients-like-me” framework that aggregates recovery outcomes from past patients seen in the clinic can support clinical prognosis by setting individualized, data-driven recovery expectations based on prior patients who are most similar to a current patient. We used a reference cohort of 558 adolescents treated in a concussion clinic. Nine routinely collected demographic and injury-related variables defined a “Like-Me Cohort”: a subset of patients most similar to a given index patient based on Euclidean distance. This patients-like-me aggregation approach generates sub-cohorts that better reflect individual clinical presentations and recovery trajectories, offering an interpretable, data-driven complement to clinical management and supporting patient-centered discussions of expected recovery. 
+    - [GitHub Repo](https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation)
+2. Clustering Algorithms (K-Means, DBSCAN, OPTICS): Unsupervised clustering to identify cell types based on gene expression characteristics. 
     - [GitHub Repo](https://github.com/wingersonMJ/ML_DL_and_CNN_projects/tree/main/Clustering%20Algorithms%20-%20KMeans%2C%20DBSCAN%2C%20OPTICS)
-2. Quick Gradient Descent Example: Exploring gradient descent in a single-layer neural network (from scratch, but without activation function (i.e., just linear representations)).
+3. Quick Gradient Descent Example: Exploring gradient descent in a single-layer neural network (from scratch, but without activation function (i.e., just linear representations)).
     - [GitHub Repo](https://github.com/wingersonMJ/ML_DL_and_CNN_projects/tree/main/Quick%20Gradient%20Descent%20Example)
-3. Support Vector Machines and Random Forests: Predicting brain stroke using clinical and self-report data on known risk factors. 
+4. Support Vector Machines and Random Forests: Predicting brain stroke using clinical and self-report data on known risk factors. 
     - [GitHub Repo](https://github.com/wingersonMJ/ML_DL_and_CNN_projects/tree/main/SVM%2C%20Random%20Forest%20Example)
-4. Exploring grid search, sampling techniques, and sample weights for datasets with imbalanced target variables. 
+5. Exploring grid search, sampling techniques, and sample weights for datasets with imbalanced target variables. 
     - [GitHub Repo](https://github.com/wingersonMJ/fun_with_grid_search_and_sampling)
 
 #### Random Forests and Decision Trees:
