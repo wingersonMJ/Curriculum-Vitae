@@ -477,6 +477,8 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 121. Wunderlich L, **Wingerson MJ,** Kniss JR, Richardson KL, Hurlburt KD, Wilson JC, Howell DR. Sex-specific effects of early physical activity on concussion outcomes. 40th Annual Virtual Student Research Forum at the University of Colorado Anschutz Medical Campus. Aurora, CO. December 9, 2025. Presentation format pending. 
 
+122. Cavey K, Smulligan KL, Donahue CC, Kniss JK, **Wingerson MJ,** Wilson JC, Howell DR. Near point of convergence association with quality-of-life ratings in adolescents with concussion. American Medical Society for Sports Medicine (AMSSM) Annual Meeting. Seatlle, WA. Apr 23-29, 2026. Presentation format pending. 
+
 ### Other Presentations
 
 1. **Wingerson MJ,** Smulligan KL, Magliato SN, Wilson JC, Baugh CM, Howell DR. Underrepresentation of diverse populations in pediatric concussion randomized clinical trials. *University of Colorado Anschutz Rehabilitation Sciences PhD Program: Work in Progress Presentations.* November 28, 2022. Podium presentation.
