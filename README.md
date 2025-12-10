@@ -548,11 +548,14 @@ Primary reviewer. *Archives of Clinical Neuropsychology.* Completed July 29, 202
 #### Neural Network Examples:
 1. Neural Network From Scratch: Building a neural network, with forward passes and backpropogation for weight/bias updates, from scratch using just numpy. 
     - [GitHub Repo](https://github.com/wingersonMJ/Neural_net_example)
-2. Predicting Cancerous Cells using Gene Expression Data: A fully connected neural network using gene expression to differentiate cancerous from non-cancerous cells.
+2. Proteomics prediction using ensemble learning: Training of a stacked regression model on the outputs of several 
+neural networks. Predicting clinical outcomes using >7,500 proteomics. 
+    - [GitHub Repo](https://github.com/wingersonMJ/Proteomics_Neural_Network_Ensemble)
+3. Predicting Cancerous Cells using Gene Expression Data: A fully connected neural network using gene expression to differentiate cancerous from non-cancerous cells.
     - [GitHub Repo](https://github.com/wingersonMJ/ML_DL_and_CNN_projects/tree/main/Neural%20Networks/Cancer%20Prediction)
-3. Convolutional Neural Network: Predicting skin lesion types from images of skin lesions. A multi-class classification problem implemented in PyTorch. 
+4. Convolutional Neural Network: Predicting skin lesion types from images of skin lesions. A multi-class classification problem implemented in PyTorch. 
     - [GitHub Repo](https://github.com/wingersonMJ/ML_DL_and_CNN_projects/tree/main/Convolutional%20Networks/Skin%20Lesion%20Multi-Class%20Classification)
-4. See NeurIPS 2025 Submission below. 
+5. See NeurIPS 2025 Submission below. 
 
 #### Web Apps:
 1. Predicting Exercise Test Heart Rate After Concussion (sandbox/non-production version)
