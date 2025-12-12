@@ -166,6 +166,8 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 27. Donahue CC, Smulligan KL, **Wingerson MJ,** Brna ML, Simon SL, Wilson JC, Howell DR. Expanding the Discussion on Sleep Assessment After Concussion: Author Response to Letter. *Orthopaedic Journal of Sports 
 Medicine.* Pre-print, accepted Nov. 11, 2025. 
 
+28. Hurlburt KD, **Wingerson MJ,** Moseley RR, Richardson KL, Kniss JR, Wilson JC, Howell DR. Adolescents with ADHD engage in longer exercise sessions during concussion recovery. *In review at MSSE.*  
+
 ---
 
 ## Peer-Reviewed Conference Presentations
