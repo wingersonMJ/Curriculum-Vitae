@@ -168,6 +168,8 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 28. Hurlburt KD, **Wingerson MJ,** Moseley RR, Richardson KL, Kniss JR, Wilson JC, Howell DR. Adolescents with ADHD engage in longer exercise sessions during concussion recovery. *In review at MSSE.*  
 
+29. Donahue CC, **Wingerson MJ,** Kniss JR, Smulligan KL, Richardson KL, Hurlburt KD, Simon SL, Wilson JC, Howell DR. Consistency is key: Irregular sleep timing and persisting symptoms following adolescent concussion. *In review at TBD*  
+
 ---
 
 ## Peer-Reviewed Conference Presentations
