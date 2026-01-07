@@ -487,7 +487,7 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 124. Wunderlich L, Smulligan KL, Kniss JR, **Wingerson MJ,** Petersen S, Walker G, Wilson JC, Howell DR. A longitudinal analysis of subsequent injury risk in adolescents with concussion vs orthopedic injury. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending.
 
-125. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending. 
+125. Petersen S, Richardson KL, Hurlburt KD, Kniss JR, **Wingerson MJ,** Walker G, Wilson JC, Howell DR. Reaction time deficits in concussed adolescent athletes: Does sport specialization matter? Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending. 
 
 ### Other Presentations
 
