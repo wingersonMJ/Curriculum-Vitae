@@ -489,6 +489,8 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 125. Petersen S, Richardson KL, Hurlburt KD, Kniss JR, **Wingerson MJ,** Walker G, Wilson JC, Howell DR. Reaction time deficits in concussed adolescent athletes: Does sport specialization matter? Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending. 
 
+126. Hurlburt KD, **Wingerson MJ,** Donahue CC, Richardson KL, Meehan WP, Wilson JC, Mannix R, Howell DR. Plasma GFAP concentrations are associated with depressive symptoms in adolescents post-concussion. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending. 
+
 ### Other Presentations
 
 1. **Wingerson MJ,** Smulligan KL, Magliato SN, Wilson JC, Baugh CM, Howell DR. Underrepresentation of diverse populations in pediatric concussion randomized clinical trials. *University of Colorado Anschutz Rehabilitation Sciences PhD Program: Work in Progress Presentations.* November 28, 2022. Podium presentation.
