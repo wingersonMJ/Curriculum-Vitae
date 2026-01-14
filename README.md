@@ -161,7 +161,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 25.	Moseley RR, **Wingerson MJ,** Richardson KL, Hurlburt KD, Warren K, Wilson JC, Meehan WP, Mannix R, Howell DR. Post-concussion physical activity frequency and plasma biomarkers associations among adolescents. *In review at… tbd.*
 
-26. Smulligan KL, **Wingerson MJ,** Armento AM, Meehan WP, Wilson JC, Howell DR. Sex differences in physical activity and energy expenditure after adolescent concussion. *In review at Medicine & Science in Sports & Exercise (MSSE).*
+26. Smulligan KL, **Wingerson MJ,** Armento AM, Meehan WP, Wilson JC, Howell DR. Physical Activity and Caloric Expenditure After Adolescent Concussion: A Comparison with Uninjured Controls. *Medicine & Science in Sports & Exercise (MSSE).* Accepted January 13, 2026.
 
 27. Donahue CC, Smulligan KL, **Wingerson MJ,** Brna ML, Simon SL, Wilson JC, Howell DR. Expanding the Discussion on Sleep Assessment After Concussion: Author Response to Letter. *Orthopaedic Journal of Sports 
 Medicine.* Pre-print, accepted Nov. 11, 2025. 
