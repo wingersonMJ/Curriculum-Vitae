@@ -105,59 +105,59 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 7.	**Wingerson MJ,** Carry P, Mannix R, Meier T, Smulligan KL, Wilson JC, Howell DR. Concussion and depressive symptoms in high school students: Impact of physical activity and substance use. *Br J Sports Med.* 2025 Jan 20:bjsports-2024-109029. doi: 10.1136/bjsports-2024-109029.
 
-8.	**Wingerson MJ,** Smulligan KL, Svoboda E, Baugh CM, Magliato SN, Wilson JC, Howell DR. Who are the participants in pediatric concussion randomized clinical trials? A meta-epidemiology study. *The Journal of Orthopaedic & Sports Physical Therapy (JOSPT) Open.* In press, accepted April 22, 2025.
+8.	**Wingerson MJ,** Smulligan KL, Svoboda E, Baugh CM, Magliato SN, Wilson JC, Howell DR. Who are the participants in pediatric concussion randomized clinical trials? A meta-epidemiology study. *The Journal of Orthopaedic & Sports Physical Therapy (JOSPT) Open.* In press, accepted April 22, 2025. https://www.jospt.org/doi/10.2519/josptopen.2025.0112
 
-9.	**Wingerson MJ,** Smulligan KL, Baugh CM, Wilson JC, Howell DR. Are we engaging in consistent and equitable reporting of demographics in clinical research? *The Journal of Orthopaedic & Sports Physical Therapy (JOSPT) Open.* In press, accepted May 5, 2025.
+9.	**Wingerson MJ,** Smulligan KL, Baugh CM, Wilson JC, Howell DR. Are we engaging in consistent and equitable reporting of demographics in clinical research? *The Journal of Orthopaedic & Sports Physical Therapy (JOSPT) Open.* In press, accepted May 5, 2025. https://www.jospt.org/doi/full/10.2519/josptopen.2025.0156
 
 ### Co-Authored
 
-1.	Howell DR, Seehusen CN, **Wingerson MJ,** Wilson JC, Lynall RC, Lugade V. Reliability and minimal detectable change for a smartphone-based motor-cognitive assessment: Implications for concussion assessment. *Journal of Applied Biomechanics.* Published online July 13, 2021.
+1.	Howell DR, Seehusen CN, **Wingerson MJ,** Wilson JC, Lynall RC, Lugade V. Reliability and minimal detectable change for a smartphone-based motor-cognitive assessment: Implications for concussion assessment. *Journal of Applied Biomechanics.* Published online July 13, 2021. https://pubmed.ncbi.nlm.nih.gov/34257159/
 
-2.	Krainin BM, Seehusen CN, Smulligan KL, **Wingerson MJ*** Wilson JC, Howell DR. Symptom and clinical recovery outcomes for pediatric concussion following early physical activity. *Journal of Neurosurgery: Pediatrics.* In press, accepted June 11, 2021.
+2.	Krainin BM, Seehusen CN, Smulligan KL, **Wingerson MJ*** Wilson JC, Howell DR. Symptom and clinical recovery outcomes for pediatric concussion following early physical activity. *Journal of Neurosurgery: Pediatrics.* In press, accepted June 11, 2021. https://pubmed.ncbi.nlm.nih.gov/34560641/
 
-3.	Smulligan KL, **Wingerson MJ,** Corrine SN, Magliato SN, Wilson JC, Howell DR. Patient perception of dizziness and balance impairment does not correlate with gait measures in adolescent athletes’ post-concussion. *Gait and Posture.* September 20, 2021.
+3.	Smulligan KL, **Wingerson MJ,** Corrine SN, Magliato SN, Wilson JC, Howell DR. Patient perception of dizziness and balance impairment does not correlate with gait measures in adolescent athletes’ post-concussion. *Gait and Posture.* September 20, 2021. https://pubmed.ncbi.nlm.nih.gov/34564000/
 
-4.	Smulligan KL, Wilson JC, Seehusen CN, **Wingerson MJ,** Magliato SN, Howell DR. Post-concussion dizziness, sleep quality, and postural instability: a cross-sectional investigation. *Journal of Athletic Training.* In press, accepted September 27, 2021.
+4.	Smulligan KL, Wilson JC, Seehusen CN, **Wingerson MJ,** Magliato SN, Howell DR. Post-concussion dizziness, sleep quality, and postural instability: a cross-sectional investigation. *Journal of Athletic Training.* In press, accepted September 27, 2021. https://pubmed.ncbi.nlm.nih.gov/34623439/
 
-5.	Smulligan KL, **Wingerson MJ,** Seehusen C, Wilson J, Howell DR. Examining Initial Post-Concussion Dizziness and Postural Stability as Potential Recovery Predictors. *Journal of Science and Medicine in Sport.* Jan 31, 2022.
+5.	Smulligan KL, **Wingerson MJ,** Seehusen C, Wilson J, Howell DR. Examining Initial Post-Concussion Dizziness and Postural Stability as Potential Recovery Predictors. *Journal of Science and Medicine in Sport.* Jan 31, 2022. https://pubmed.ncbi.nlm.nih.gov/35221201/
 
-6.	Smulligan KL, **Wingerson MJ,** Seehusen CN, Wilson JC, Howell DR. Post-concussion dizziness severity predicts daily step count during recovery among adolescent athletes. *Medicine and Science in Sports and Exercise.* E-pub ahead of print: January 25, 2022.
+6.	Smulligan KL, **Wingerson MJ,** Seehusen CN, Wilson JC, Howell DR. Post-concussion dizziness severity predicts daily step count during recovery among adolescent athletes. *Medicine and Science in Sports and Exercise.* E-pub ahead of print: January 25, 2022. https://pubmed.ncbi.nlm.nih.gov/35081096/
 
-7.	Howell DR, **Wingerson MJ,** Kirkwood MW, Grubenhoff JA, Wilson JC. Early aerobic exercise among adolescents at moderate/high risk for persistent postconcussion symptoms: A pilot randomized clinical trial. *Physical Therapy in Sport.* Accepted April 19, 2022.
+7.	Howell DR, **Wingerson MJ,** Kirkwood MW, Grubenhoff JA, Wilson JC. Early aerobic exercise among adolescents at moderate/high risk for persistent postconcussion symptoms: A pilot randomized clinical trial. *Physical Therapy in Sport.* Accepted April 19, 2022. https://pubmed.ncbi.nlm.nih.gov/35489100/
 
-8.	Smulligan KL, **Wingerson MJ,** Seehusen CN, Smith AC, Walker GA, Wilson JC, Howell DR. Dizziness is associated with neck/shoulder pain in pediatric concussion. *Clinical Journal of Sports Medicine.* Accepted May 31st, 2022.
+8.	Smulligan KL, **Wingerson MJ,** Seehusen CN, Smith AC, Walker GA, Wilson JC, Howell DR. Dizziness is associated with neck/shoulder pain in pediatric concussion. *Clinical Journal of Sports Medicine.* Accepted May 31st, 2022. https://pubmed.ncbi.nlm.nih.gov/36315824/
 
-9.	Smulligan KL, **Wingerson MJ,** Seehusen CN, Little CC, Wilson JC, Howell DR. More Physical Activity Is Correlated With Reduction in Kinesiophobia for Adolescents With Persistent Symptoms After Concussion. *J Sport Rehabil.* 2022;32(2):196-202. Published 2022 Oct 11. doi:10.1123/jsr.2022-0193.
+9.	Smulligan KL, **Wingerson MJ,** Seehusen CN, Little CC, Wilson JC, Howell DR. More Physical Activity Is Correlated With Reduction in Kinesiophobia for Adolescents With Persistent Symptoms After Concussion. *J Sport Rehabil.* 2022;32(2):196-202. Published 2022 Oct 11. https://pubmed.ncbi.nlm.nih.gov/36220143/
 
-10.	Schmitz B, Smulligan KL, **Wingerson MJ,** Walker GA, Wilson JC, Howell DR. Double Vision and Light Sensitivity Symptoms are Associated With Return-to-School Timing After Pediatric Concussion. *Clin J Sport Med.* 2023;33(3):264-269. doi:10.1097/JSM.0000000000001106.
+10.	Schmitz B, Smulligan KL, **Wingerson MJ,** Walker GA, Wilson JC, Howell DR. Double Vision and Light Sensitivity Symptoms are Associated With Return-to-School Timing After Pediatric Concussion. *Clin J Sport Med.* 2023;33(3):264-269. https://pubmed.ncbi.nlm.nih.gov/36395518/
 
-11.	Neely LM, Smulligan KL, **Wingerson MJ,** et al. The association between sleep and physical activity with persisting postconcussion symptoms among adolescent athletes [published online ahead of print, 2022 Dec 29]. *Physical Medicine and Rehabilitation.* 2022;10.1002/pmrj.12939. doi:10.1002/pmrj.12939.
+11.	Neely LM, Smulligan KL, **Wingerson MJ,** et al. The association between sleep and physical activity with persisting postconcussion symptoms among adolescent athletes [published online ahead of print, 2022 Dec 29]. *Physical Medicine and Rehabilitation.* 2022;10.1002/pmrj.12939. doi:10.1002/pmrj.12939. https://pubmed.ncbi.nlm.nih.gov/36580488/
 
-12.	Barnes A, Smulligan K, **Wingerson MJ,** et al. A Multifaceted Approach to Interpreting Reaction Time Deficits After Adolescent Concussion [published online ahead of print, 2023 Jan 27]. *J Athl Train.* 2023;10.4085/1062-6050-0566.22. doi:10.4085/1062-6050-0566.22.
+12.	Barnes A, Smulligan K, **Wingerson MJ,** et al. A Multifaceted Approach to Interpreting Reaction Time Deficits After Adolescent Concussion [published online ahead of print, 2023 Jan 27]. *J Athl Train.* 2023;10.4085/1062-6050-0566.22. doi:10.4085/1062-6050-0566.22. https://pubmed.ncbi.nlm.nih.gov/36701688/
 
-13.	Magliato SN, **Wingerson MJ,** Seehusen CN, et al. Sleep Problems After Concussion Are Associated With Poor Balance and Persistent Postconcussion Symptoms. *J Child Neurol.* 2023;38(3-4):198-205. doi:10.1177/08830738231170721.
+13.	Magliato SN, **Wingerson MJ,** Seehusen CN, et al. Sleep Problems After Concussion Are Associated With Poor Balance and Persistent Postconcussion Symptoms. *J Child Neurol.* 2023;38(3-4):198-205. doi:10.1177/08830738231170721. https://pubmed.ncbi.nlm.nih.gov/37122172/
 
-14.	Smulligan KL, **Wingerson MJ,** Little CC, Wilson JC, Howell DR. Early physical activity after concussion is associated with sleep quality but not dizziness among adolescent athletes. *J Sci Med Sport.* 2023;26(3):183-188. doi:10.1016/j.jsams.2023.02.001.
+14.	Smulligan KL, **Wingerson MJ,** Little CC, Wilson JC, Howell DR. Early physical activity after concussion is associated with sleep quality but not dizziness among adolescent athletes. *J Sci Med Sport.* 2023;26(3):183-188. doi:10.1016/j.jsams.2023.02.001. https://pubmed.ncbi.nlm.nih.gov/36804710/
 
-15.	Rademacher JG, **Wingerson MJ,** Smulligan KL, Little CC, Wilson JC, Howell DR. Early Moderate to Vigorous Physical Activity After Concussion Is Associated With Faster Symptom Resolution Time. *J Sport Rehabil.* 2023;32(7):790-796. Published 2023 Jun 9. doi:10.1123/jsr.2023-0022.
+15.	Rademacher JG, **Wingerson MJ,** Smulligan KL, Little CC, Wilson JC, Howell DR. Early Moderate to Vigorous Physical Activity After Concussion Is Associated With Faster Symptom Resolution Time. *J Sport Rehabil.* 2023;32(7):790-796. Published 2023 Jun 9. doi:10.1123/jsr.2023-0022. https://pubmed.ncbi.nlm.nih.gov/37295788/
 
-16.	Smulligan KL, Magliato SN, Keeter CL, **Wingerson MJ,** Smith AC, Wilson JC, Howell DR. The Diagnostic Utility of Cervical Spine Proprioception for Adolescent Concussion. *Clinical Journal of Sport Medicine.* In press, accepted June 12, 2024.
+16.	Smulligan KL, Magliato SN, Keeter CL, **Wingerson MJ,** Smith AC, Wilson JC, Howell DR. The Diagnostic Utility of Cervical Spine Proprioception for Adolescent Concussion. *Clinical Journal of Sport Medicine.* In press, accepted June 12, 2024. https://pubmed.ncbi.nlm.nih.gov/38953712/
 
-17.	Howell DR, **Wingerson MJ,** Smulligan KL, Magliato SN, Simon S, Wilson JC. Exercising more than 150 minutes/week after concussion is associated with sleep quality improvements. *J Head Trauma Rehabil.* 2024;39(4).
+17.	Howell DR, **Wingerson MJ,** Smulligan KL, Magliato SN, Simon S, Wilson JC. Exercising more than 150 minutes/week after concussion is associated with sleep quality improvements. *J Head Trauma Rehabil.* 2024;39(4). https://pubmed.ncbi.nlm.nih.gov/38032838/ 
 
-18.	Smulligan KL, **Wingerson MJ,** Magliato SN, Rademacher JG, Wilson JC, Howell DR. Post-concussion moderate to vigorous physical activity predicts anxiety severity after return-to-play in adolescent athletes. *Med Sci Sports Exerc.* 2024; 56(5):790-795.
+18.	Smulligan KL, **Wingerson MJ,** Magliato SN, Rademacher JG, Wilson JC, Howell DR. Post-concussion moderate to vigorous physical activity predicts anxiety severity after return-to-play in adolescent athletes. *Med Sci Sports Exerc.* 2024; 56(5):790-795. https://pubmed.ncbi.nlm.nih.gov/38181208/
 
-19.	Magliato SN, **Wingerson MJ,** Smulligan KL, Little CC, Lugade V, Wilson JC, Howell DR. Smartphone-Based Neuromuscular Training Among Physically Active Young Adults: A Feasibility Study. *Journal of Sport Rehabilitation.* In press, accepted July 30, 2024.
+19.	Magliato SN, **Wingerson MJ,** Smulligan KL, Little CC, Lugade V, Wilson JC, Howell DR. Smartphone-Based Neuromuscular Training Among Physically Active Young Adults: A Feasibility Study. *Journal of Sport Rehabilitation.* In press, accepted July 30, 2024. https://pubmed.ncbi.nlm.nih.gov/39374925/
 
-20.	Smulligan KL, Carry P, **Wingerson MJ,** Donahue C, Wilson JC, Howell DR. Clinical Measures Associated with Subsequent Injury After Adolescent Concussion: A Prospective Cohort Study. *Medicine & Science in Sports & Exercise.* In press, accepted September 22, 2024.
+20.	Smulligan KL, Carry P, **Wingerson MJ,** Donahue C, Wilson JC, Howell DR. Clinical Measures Associated with Subsequent Injury After Adolescent Concussion: A Prospective Cohort Study. *Medicine & Science in Sports & Exercise.* In press, accepted September 22, 2024. https://pubmed.ncbi.nlm.nih.gov/39733225/
 
-21.	Donahue CC, Smulligan KL, **Wingerson MJ,** Kniss JR, Simon SL, Wilson JC, Howell DR. Feasibility of at-home sleep monitoring in adolescents with and without concussion. *Nat Sci Sleep.* 2024 Dec 28;16:2257-2268. doi: 10.2147/NSS.S497858.
+21.	Donahue CC, Smulligan KL, **Wingerson MJ,** Kniss JR, Simon SL, Wilson JC, Howell DR. Feasibility of at-home sleep monitoring in adolescents with and without concussion. *Nat Sci Sleep.* 2024 Dec 28;16:2257-2268. doi: 10.2147/NSS.S497858. https://pubmed.ncbi.nlm.nih.gov/39749249/
 
-22.	Donahue CC, Smulligan KL, **Wingerson MJ,** Brna ML, Simon SL, Wilson JC, Howell DR. Clinical Cut Point for the Pittsburgh Sleep Quality Index After Adolescent Concussion. *Orthopaedic Journal of Sports Medicine.* 2025;13(4). doi:10.1177/23259671251330571.
+22.	Donahue CC, Smulligan KL, **Wingerson MJ,** Brna ML, Simon SL, Wilson JC, Howell DR. Clinical Cut Point for the Pittsburgh Sleep Quality Index After Adolescent Concussion. *Orthopaedic Journal of Sports Medicine.* 2025;13(4). doi:10.1177/23259671251330571. https://pubmed.ncbi.nlm.nih.gov/40297050/
 
-23.	Singh M, Smulligan KL, **Wingerson MJ,** Magliato S, Wilson JC, Howell DR. Prognostic Utility of Immediate Memory and Delayed Recall Assessments for Adolescent Concussion. 2025. *Clinical Journal of Sport Medicine.* In press, accepted May 28, 2025.
+23.	Singh M, Smulligan KL, **Wingerson MJ,** Magliato S, Wilson JC, Howell DR. Prognostic Utility of Immediate Memory and Delayed Recall Assessments for Adolescent Concussion. 2025. *Clinical Journal of Sport Medicine.* In press, accepted May 28, 2025. https://pubmed.ncbi.nlm.nih.gov/40558047/
 
-24.	Smulligan KL, Magliato SN, **Wingerson MJ,** Lugade V, Wilson, JC, Howell DR. Virtual Neuromuscular Training: Preliminary Findings Using an Injury Prevention Program for Physically Active Young Adults. *Journal of Sport Rehabilitation.* In press, accepted July 27, 2025.
+24.	Smulligan KL, Magliato SN, **Wingerson MJ,** Lugade V, Wilson, JC, Howell DR. Virtual Neuromuscular Training: Preliminary Findings Using an Injury Prevention Program for Physically Active Young Adults. *Journal of Sport Rehabilitation.* In press, accepted July 27, 2025. https://pubmed.ncbi.nlm.nih.gov/41052754/
 
 25.	Moseley RR, **Wingerson MJ,** Richardson KL, Hurlburt KD, Warren K, Wilson JC, Meehan WP, Mannix R, Howell DR. Post-concussion physical activity frequency and plasma biomarkers associations among adolescents. *In review at… tbd.*
 
