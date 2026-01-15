@@ -170,6 +170,8 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 29. Donahue CC, **Wingerson MJ,** Kniss JR, Smulligan KL, Richardson KL, Hurlburt KD, Simon SL, Wilson JC, Howell DR. Consistency is key: Irregular sleep timing and persisting symptoms following adolescent concussion. *In review at TBD*  
 
+30. Donahue CC, Smulligan KL, **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. Clinical Cut Point for the Post Concussion Symptom Inventory Following Adolescent Concussion. *Medicine in Science and Sports Exercise.* Accepted January 9,2026.
+
 ---
 
 ## Peer-Reviewed Conference Presentations
