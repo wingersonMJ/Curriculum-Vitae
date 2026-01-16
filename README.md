@@ -483,7 +483,7 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 121. Wunderlich L, **Wingerson MJ,** Kniss JR, Richardson KL, Hurlburt KD, Wilson JC, Howell DR. Sex-specific effects of early physical activity on concussion outcomes. 40th Annual Virtual Student Research Forum at the University of Colorado Anschutz Medical Campus. Aurora, CO. December 9, 2025. Presentation format pending. 
 
-122. Cavey K, Smulligan KL, Donahue CC, Kniss JK, **Wingerson MJ,** Wilson JC, Howell DR. Near point of convergence association with quality-of-life ratings in adolescents with concussion. American Medical Society for Sports Medicine (AMSSM) Annual Meeting. Seatlle, WA. Apr 23-29, 2026. Presentation format pending. 
+122. Cavey K, Smulligan KL, Donahue CC, Kniss JK, **Wingerson MJ,** Wilson JC, Howell DR. Near Point of Convergence Following Adolescent Concussion: Associations with Quality-of-Life Ratings. American Medical Society for Sports Medicine (AMSSM) Annual Meeting. Seatlle, WA. Apr 23-29, 2026. Podium Presentation. 
 
 123. Hurlburt KD, **Wingerson MJ,** Richardson KL, Kniss JR, Mannix R, Meehan III WP,  Wilson JC, Howell DR. Prescribing Post Concussion Exercise via Age Predicted Heart Rate Maximum: A Comparison to Systemic Exercise Testing. International Pediatric Brain Injury Society (IPBIS) 6th Biennial Conference. April 29th-May 2nd, 2026. Calgary, CAN. Podium Presentation.  
 
