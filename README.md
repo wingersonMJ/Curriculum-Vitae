@@ -159,7 +159,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 24.	Smulligan KL, Magliato SN, **Wingerson MJ,** Lugade V, Wilson, JC, Howell DR. Virtual Neuromuscular Training: Preliminary Findings Using an Injury Prevention Program for Physically Active Young Adults. *Journal of Sport Rehabilitation.* In press, accepted July 27, 2025. https://pubmed.ncbi.nlm.nih.gov/41052754/
 
-25.	Moseley RR, **Wingerson MJ,** Richardson KL, Hurlburt KD, Warren K, Wilson JC, Meehan WP, Mannix R, Howell DR. Post-concussion physical activity frequency and plasma biomarkers associations among adolescents. *In review at… tbd.*
+25.	Moseley RR, **Wingerson MJ,** Richardson KL, Hurlburt KD, Warren K, Wilson JC, Meehan WP, Mannix R, Howell DR. Post-concussion physical activity frequency and plasma biomarker associations among adolescents. *Journal of Neurosurgery: Pediatrics.* Pre-print, accepted Feb. 4, 2026.
 
 26. Smulligan KL, **Wingerson MJ,** Armento AM, Meehan WP, Wilson JC, Howell DR. Physical Activity and Caloric Expenditure After Adolescent Concussion: A Comparison with Uninjured Controls. *Medicine & Science in Sports & Exercise (MSSE).* Accepted January 13, 2026.
 
