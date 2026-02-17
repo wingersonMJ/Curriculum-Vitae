@@ -481,7 +481,7 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 119. Wunderlich L, Richardson KL, Hurlburt KD, Donahue CC, **Wingerson MJ,** Wilson JC, Armento A, Howell DR. Post-concussion exercise volume is associated with menstrual dysfunction in female adolescents. American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Presentation format pending. 
 
-120. Richardson KL, Hurlburt KD, **Wingerson MJ,** Warren K, Wilson JC, Mannix R, Meehan WP, Howell DR. Are inflammatory cytokine plasma biomarkers associated with subsequent injury risk following concussion symptom resolution? American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Presentation format pending. 
+120. Richardson KL, Hurlburt KD, **Wingerson MJ,** Warren K, Wilson JC, Mannix R, Meehan WP, Howell DR. Are inflammatory cytokine plasma biomarkers associated with subsequent injury risk following concussion symptom resolution? American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Poster Presentation. 
 
 121. Wunderlich L, **Wingerson MJ,** Kniss JR, Richardson KL, Hurlburt KD, Wilson JC, Howell DR. Sex-specific effects of early physical activity on concussion outcomes. 40th Annual Virtual Student Research Forum at the University of Colorado Anschutz Medical Campus. Aurora, CO. December 9, 2025. Presentation format pending. 
 
