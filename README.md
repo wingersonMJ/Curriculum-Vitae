@@ -495,7 +495,7 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 126. Hurlburt KD, **Wingerson MJ,** Donahue CC, Richardson KL, Meehan WP, Wilson JC, Mannix R, Howell DR. Plasma GFAP concentrations are associated with depressive symptoms in adolescents post-concussion. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending. 
 
-127. Richardson KL, Hurlburt KD, Donahue CC, **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. Academic concerns after concussion are associated with persisting symptoms. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending. 
+127. Richardson KL, Hurlburt KD, Donahue CC, **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. Academic concerns after concussion are associated with persisting symptoms. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Poster Presentation. 
 
 ### Other Presentations
 
