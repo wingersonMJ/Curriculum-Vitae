@@ -475,7 +475,7 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 116. Howell DR, Hurlburt KD, Richardson KL, Kniss JR, Wunderlich L, **Wingerson MJ,** Wilson JC. The Influence of Exercise Volume and Intensity on Depressive Symptoms Following Adolescent Concussion. International Pediatric Brain Injury Society (IPBIS) 6th Biennial Conference. April 29th-May 2nd, 2026. Calgary, CAN. Poster Presentation. 
 
-117. Hurlburt KD, **Wingerson MJ,** Moseley RR, Richardson KL, Kniss JR, Wilson JC, Howell DR. Post-concussion exercise duration is longer among adolescents with ADHD. American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Presentation format pending. 
+117. Hurlburt KD, **Wingerson MJ,** Moseley RR, Richardson KL, Kniss JR, Wilson JC, Howell DR. Post-concussion exercise duration is longer among adolescents with ADHD. American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Poster Presentation. 
 
 118. Richardson KL, Hurlburt KD, **Wingerson MJ,** Warren K, Wilson JC, Mannix R, Meehan III WP, Howell DR. Plasma Biomarkers of Inflammation after Concussion Symptom Resolution: Associations with Subsequent Injury Risk. International Pediatric Brain Injury Society (IPBIS) 6th Biennial Conference. April 29th-May 2nd, 2026. Calgary, CAN. Poster Presentation. 
 
