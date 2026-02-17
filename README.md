@@ -238,7 +238,7 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 28. **Wingerson MJ,** Keeter C, Carry P, Smulligan KL, Wilson JC, Halstead M, Miller S, Santana J, Valovich McLeod T, Zaslow T, Master C, Grady M, Snedden T, Fazekas M, Coel R, Howell DR. Machine Learning to Identify Patients at Risk of Developing Anxiety/Depression Symptoms After Adolescent Concussion: Findings from the PRiSM Concussion RIG. *University of Colorado 6th Annual Orthopedic Research Symposium & D’Ambrosia Diversity.* October 23, 2024. Aurora, CO. Podium Presentation. **Mack Clayton Pre-Doctoral Trainee Award Finalist.**
 
-29. **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. A decision tree framework for clinically intuitive prediction of persisiting symptoms after concussion. *American College of Sports Medicine (ACSM), 2026 Annual Meeting & World Congress.* May 26-29. Salt Lake City, UT. Presentation format pending. 
+29. **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. A decision tree framework for clinically intuitive prediction of persisiting symptoms after concussion. *American College of Sports Medicine (ACSM), 2026 Annual Meeting & World Congress.* May 26-29. Salt Lake City, UT. Poster Presentation. 
 
 30. **Wingerson MJ,** A patients-like-me approach to aggregating data in clinical management of adolescent concussion. *2026 Culture of Data: Colorado Public Health Association.* April 15, 2026. Denver, CO. Presentation format pending. 
 
@@ -491,7 +491,7 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 124. Wunderlich L, Smulligan KL, Kniss JR, **Wingerson MJ,** Petersen S, Walker G, Wilson JC, Howell DR. A longitudinal analysis of subsequent injury risk in adolescents with concussion vs orthopedic injury. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending.
 
-125. Petersen S, Richardson KL, Hurlburt KD, Kniss JR, **Wingerson MJ,** Walker G, Wilson JC, Howell DR. Reaction time deficits in concussed adolescent athletes: Does sport specialization matter? Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending. 
+125. Petersen S, Richardson KL, Hurlburt KD, Kniss JR, **Wingerson MJ,** Walker G, Wilson JC, Howell DR. Reaction time deficits in concussed adolescent athletes: Does sport specialization matter? Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Podium Presentation. 
 
 126. Hurlburt KD, **Wingerson MJ,** Donahue CC, Richardson KL, Meehan WP, Wilson JC, Mannix R, Howell DR. Plasma GFAP concentrations are associated with depressive symptoms in adolescents post-concussion. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending. 
 
