@@ -161,7 +161,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 25.	Moseley RR, **Wingerson MJ,** Richardson KL, Hurlburt KD, Warren K, Wilson JC, Meehan WP, Mannix R, Howell DR. Post-concussion physical activity frequency and plasma biomarker associations among adolescents. *Journal of Neurosurgery: Pediatrics.* Pre-print, accepted Feb. 4, 2026.
 
-26. Smulligan KL, **Wingerson MJ,** Armento AM, Meehan WP, Wilson JC, Howell DR. Physical Activity and Caloric Expenditure After Adolescent Concussion: A Comparison with Uninjured Controls. *Medicine & Science in Sports & Exercise (MSSE).* Accepted January 13, 2026.
+26. Smulligan KL, Wingerson MJ, Armento AM, Meehan WP, Wilson JC, Howell DR. Sex Differences in Physical Activity and Energy Expenditure after Adolescent. 2026. Medicine & Science in Sports & Exercise. In press, accepted February 17, 2026.
 
 27. Donahue CC, Smulligan KL, **Wingerson MJ,** Brna ML, Simon SL, Wilson JC, Howell DR. Expanding the Discussion on Sleep Assessment After Concussion: Author Response to Letter. *Orthopaedic Journal of Sports 
 Medicine.* Pre-print, accepted Nov. 11, 2025. 
@@ -479,7 +479,7 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 118. Richardson KL, Hurlburt KD, **Wingerson MJ,** Warren K, Wilson JC, Mannix R, Meehan III WP, Howell DR. Plasma Biomarkers of Inflammation after Concussion Symptom Resolution: Associations with Subsequent Injury Risk. International Pediatric Brain Injury Society (IPBIS) 6th Biennial Conference. April 29th-May 2nd, 2026. Calgary, CAN. Poster Presentation. 
 
-119. Wunderlich L, Richardson KL, Hurlburt KD, Donahue CC, **Wingerson MJ,** Wilson JC, Armento A, Howell DR. Post-concussion exercise volume is associated with menstrual dysfunction in female adolescents. American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Presentation format pending. 
+119. Wunderlich L, Richardson KL, Hurlburt KD, Donahue CC, **Wingerson MJ,** Wilson JC, Armento A, Howell DR. Post-concussion exercise volume is associated with menstrual dysfunction in female adolescents. American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Poster presentation. 
 
 120. Richardson KL, Hurlburt KD, **Wingerson MJ,** Warren K, Wilson JC, Mannix R, Meehan WP, Howell DR. Are inflammatory cytokine plasma biomarkers associated with subsequent injury risk following concussion symptom resolution? American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Poster Presentation. 
 
@@ -489,7 +489,7 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 123. Hurlburt KD, **Wingerson MJ,** Richardson KL, Kniss JR, Mannix R, Meehan III WP,  Wilson JC, Howell DR. Prescribing Post Concussion Exercise via Age Predicted Heart Rate Maximum: A Comparison to Systemic Exercise Testing. International Pediatric Brain Injury Society (IPBIS) 6th Biennial Conference. April 29th-May 2nd, 2026. Calgary, CAN. Podium Presentation.  
 
-124. Wunderlich L, Smulligan KL, Kniss JR, **Wingerson MJ,** Petersen S, Walker G, Wilson JC, Howell DR. A longitudinal analysis of subsequent injury risk in adolescents with concussion vs orthopedic injury. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Presentation format pending.
+124. Wunderlich L, Smulligan KL, Kniss JR, **Wingerson MJ,** Petersen S, Walker G, Wilson JC, Howell DR. A longitudinal analysis of subsequent injury risk in adolescents with concussion vs orthopedic injury. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Oral Presentation.
 
 125. Petersen S, Richardson KL, Hurlburt KD, Kniss JR, **Wingerson MJ,** Walker G, Wilson JC, Howell DR. Reaction time deficits in concussed adolescent athletes: Does sport specialization matter? Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Podium Presentation. 
 
