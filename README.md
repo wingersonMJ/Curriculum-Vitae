@@ -172,7 +172,10 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 
 30. Donahue CC, Smulligan KL, **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. Clinical Cut Point for the Post Concussion Symptom Inventory Following Adolescent Concussion. *Medicine in Science and Sports Exercise.* Accepted January 9,2026.
 
-31. Moseley RR, Wingerson MJ, Hurlburt KD, Richardson KL, Nagle SM, Wilson JC, Meehan WP, Howell DR. Concussion symptom resolution expectations and subsequent development of persisting symptoms after adolescent concussion. 2026. Journal of Athletic Training. In press, accepted January 26, 2026. 
+31. Moseley RR, **Wingerson MJ,** Hurlburt KD, Richardson KL, Nagle SM, Wilson JC, Meehan WP, Howell DR. Concussion symptom resolution expectations and subsequent development of persisting symptoms after adolescent concussion. 2026. Journal of Athletic Training. In press, accepted January 26, 2026. 
+
+32. Salfi ZP, **Wingerson MJ,** Donahue CC, Smulligan KL, Wilson JC, Howell DR. The integrated effect of physical activity and sleep problems 
+on concussion symptom resolution. *Journal of Sport Rehabilitation.* In press, accepted March 1, 2026.  
 
 ---
 
