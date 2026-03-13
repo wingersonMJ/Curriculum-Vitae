@@ -534,6 +534,8 @@ Primary reviewer. *Frontiers in Public Health.* Completed May 21, 2025.
 
 Primary reviewer. *Archives of Clinical Neuropsychology.* Completed July 29, 2025.  
 
+Primary reviewer. *Journal of Neurotrauma.* Completed March 13, 2026.  
+
 ---
 
 ## Other Works
