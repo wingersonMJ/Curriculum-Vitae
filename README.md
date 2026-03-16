@@ -536,6 +536,9 @@ Primary reviewer. *Archives of Clinical Neuropsychology.* Completed July 29, 202
 
 Primary reviewer. *Journal of Neurotrauma.* Completed March 13, 2026.  
 
+Primary reviewer. *Scientific Reports.* Topic: Reliability/Readability of AI generated information about concussion clinical care. 
+Completed March 16, 2026.  
+
 ---
 
 ## Other Works
