@@ -244,7 +244,7 @@ tolerance and performance on systematic exertional testing. *In review at... tbd
 
 28. **Wingerson MJ,** Keeter C, Carry P, Smulligan KL, Wilson JC, Halstead M, Miller S, Santana J, Valovich McLeod T, Zaslow T, Master C, Grady M, Snedden T, Fazekas M, Coel R, Howell DR. Machine Learning to Identify Patients at Risk of Developing Anxiety/Depression Symptoms After Adolescent Concussion: Findings from the PRiSM Concussion RIG. *University of Colorado 6th Annual Orthopedic Research Symposium & D’Ambrosia Diversity.* October 23, 2024. Aurora, CO. Podium Presentation. **Mack Clayton Pre-Doctoral Trainee Award Finalist.**
 
-29. **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. A decision tree framework for clinically intuitive prediction of persisiting symptoms after concussion. *American College of Sports Medicine (ACSM), 2026 Annual Meeting & World Congress.* May 26-29. Salt Lake City, UT. Poster Presentation. 
+29. **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. A decision tree framework for clinically intuitive prediction of persisiting symptoms after concussion. *American College of Sports Medicine (ACSM), 2026 Annual Meeting & World Congress.* May 26-29. Salt Lake City, UT. Poster Presentation. **Clinician Reception Presentation for "Best Clinical Case/Research Submission"**  
 
 30. **Wingerson MJ,** A patients-like-me approach to aggregating data in clinical management of adolescent concussion. *2026 Culture of Data: Colorado Public Health Association.* April 15, 2026. Denver, CO. Presentation format pending. 
 
