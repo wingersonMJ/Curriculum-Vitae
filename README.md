@@ -76,12 +76,25 @@ Supervised by: David Howell, PhD, ATC; Julie Wilson, MD; Michael Kirkwood, PhD.
 National Institutes of Health (NIH)  
 Eunice Kennedy Shriver National Institute of Child Health & Human Development  
 Award Number: F31HD116524-01  
-Total Award Amount: $77,600  
+Total Award Amount: $77,600 USD  
+Funding Duration: 24 months  
 Institution: Department of Orthopedics, University of Colorado Anschutz School of Medicine  
 Project Title: A novel approach to exercise as treatment for injury-induced impairments in cerebrovascular function among adolescents with concussion  
 Sponsor: David Howell  
 Co-Sponsor: Brianne Bettcher  
 Mentorship Team: Patrick Carry & Jonathan Smirl  
+
+### Canada Impact+ Research Training Award
+**Postdoctoral Research Fellowship**  
+Canadian Institutes of Health Research (CIHR)  
+Faculty of Arts, Psychology  
+University of British Columbia, Vancouver, BC.  
+Award Number: 586051  
+Total Award Amount: $140,000 CAN ($102,510 USD)  
+Funding Duration: 24 months  
+Project Title: Advancing Precision Concussion Rehabilitation Through Clinical Decision Support  
+Sponsor: Noah D Silverberg  
+Mentorship Team: tbd  
 
 ---
 
@@ -246,7 +259,7 @@ tolerance and performance on systematic exertional testing. *In review at... tbd
 
 29. **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. A decision tree framework for clinically intuitive prediction of persisiting symptoms after concussion. *American College of Sports Medicine (ACSM), 2026 Annual Meeting & World Congress.* May 26-29. Salt Lake City, UT. Poster Presentation. **Clinician Reception Presentation for "Best Clinical Case/Research Submission"**  
 
-30. **Wingerson MJ,** A patients-like-me approach to aggregating data in clinical management of adolescent concussion. *2026 Culture of Data: Colorado Public Health Association.* April 15, 2026. Denver, CO. Presentation format pending. 
+30. **Wingerson MJ,** A patients-like-me approach to aggregating data in clinical management of adolescent concussion. *2026 Culture of Data: Colorado Public Health Association.* April 15, 2026. Denver, CO. Presentation format pending.  
 
 ### Co-Author
 
