@@ -200,8 +200,13 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 32. Salfi ZP, **Wingerson MJ,** Donahue CC, Smulligan KL, Wilson JC, Howell DR. The integrated effect of physical activity and sleep problems 
 on concussion symptom resolution. *Journal of Sport Rehabilitation.* In press, accepted March 1, 2026.  
 
-33. Hurlburt KD, **Wingerson, MJ,** Richardson KL, Kniss J, Mannix R, Meehan W, Wilson JC, Howell DR. Predictors of post-concussion exercise 
+33. Hurlburt KD, **Wingerson MJ,** Richardson KL, Kniss J, Mannix R, Meehan W, Wilson JC, Howell DR. Predictors of post-concussion exercise 
 tolerance and performance on systematic exertional testing. *In review at... tbd*  
+
+34. Wunderlich L, **Wingerson MJ,** Kniss JK, Richardson KL, Hurlburt KD, Donahue CC, Wilson JC, Howell DR. 
+Evaluating Sex-Specific Effects of Early Physical Activity on Outcomes Following Adolescent Concussion. 
+*In review at... tbd*  
+
 
 ---
 
