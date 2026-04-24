@@ -52,10 +52,20 @@ Simpson College, Department of Psychology, Indianola, IA.
 
 ## Professional Experience
 
+### Postdoctoral Research Fellow
+August 2026 - tbd  
+University of British Columbia, Department of Psychology  
+Supervised by: Noah Silverberg  
+Research focus: Using biostatistics, health analytics, and ML/AI to bring the relevant data 
+to the right people at the right time, and design pipelines that implement those processes 
+into clinical workflows at the point of care!  
+
 ### PhD Student/Candidate Researcher
 August 2022 - Present  
 University of Colorado School of Medicine, Rehabilitation Sciences Program  
 Supervised by: David Howell, PhD, ATC; Julie Wilson, MD; Jennifer Stevens-Lapsley, PT, PhD.  
+Research focus: Health analytics and biostatistics for improving clinical rehabilitation of 
+sport-related concussion in a pediatric hospital setting.  
 
 ### Senior Clinical Research Coordinator
 Novemebr 2021 - July 2022  
