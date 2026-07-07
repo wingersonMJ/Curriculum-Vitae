@@ -207,6 +207,11 @@ tolerance and performance on systematic exertional testing. *In review at... tbd
 Evaluating Sex-Specific Effects of Early Physical Activity on Outcomes Following Adolescent Concussion. 
 *In review at... tbd*  
 
+35. Giffen S, **Wingerson MJ,** Kniss JR, Simon SL, Mannix R, Meehan W, Wilson JC, Howell DR, Donahue CC. 
+Persistent Sleep Problems among Adolescents Post-Concussion: A Longitudinal Investigation of Sleep Quality 
+Across Recovery Phases. Journal of Athletic Training. *In Press, Accepted June 22 ,2026*
+
+
 
 ---
 
@@ -530,6 +535,18 @@ Evaluating Sex-Specific Effects of Early Physical Activity on Outcomes Following
 126. Hurlburt KD, **Wingerson MJ,** Donahue CC, Richardson KL, Meehan WP, Wilson JC, Mannix R, Howell DR. Plasma GFAP concentrations are associated with depressive symptoms in adolescents post-concussion. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Podium Presentation. 
 
 127. Richardson KL, Hurlburt KD, Donahue CC, **Wingerson MJ,** Kniss JR, Wilson JC, Howell DR. Academic concerns after concussion are associated with persisting symptoms. Canadian Concussion Network. April 27-28, 2026. Calgary, Alberta, CAN. Poster Presentation. 
+
+128. Hurlburt KD, Richardson KL, Wunderlich LG, **Wingerson MJ,** Wilson JC, Meehan WP, Howell DR. 
+Risk of subsequent injury after concussion is attenuated by volume of MVPA during concussion recovery. 
+*University of Colorado D'Ambrosia Orthopedics Research Symposium.* Presentation format pending.  
+
+129. Hurlburt KD, Richardson KL, Wunderlich LG, **Wingerson MJ,** Wilson JC, Meehan WP, Howell DR. 
+Risk of subsequent injury after concussion is attenuated by volume of MVPA during concussion recovery. 
+*Pediatric Research in Sports Medicine (PRiSM) Annual Conference* Presentation format pending.  
+
+130. Richardson KL, Hurlburt KD, Wunderlich LG, **Wingerson MJ,** Wilson JC, Mannix R, Howell DR. 
+Post-concussion plasma biomarkers association with persisting symptoms after concussion among adolescents. 
+*Pediatric Research in Sports Medicine (PRiSM) Annual Conference* Presentation format pending.  
 
 ### Other Presentations
 
