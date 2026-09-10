@@ -217,7 +217,11 @@ Following Concussion: A Cross-Sectional Study. *In review at... tbd*
 
 37. Cavey K, **Wingerson MJ,** Kniss J, Smulligan KL, Donahue CC, Wilson JC, Howell DR.
 Near Point of Convergence Following Adolescent Concussion: Associations with Quality-of-Life
-Ratings. *In review at... tbd*  
+Ratings. *In review at... tbd*
+
+38. Hatolkar V Breedlove KM, Wilson JC, **Wingerson MJ,** Smulligan KL, Kawaja MD, Howell DR Lin AP.
+Associations Between Neurochemistry and Return-to-Play Time Following Concussion in Adolescent
+Athletes. *In-review at... tbd*  
 
 
 ---
