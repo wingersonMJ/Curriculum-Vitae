@@ -209,14 +209,15 @@ Evaluating Sex-Specific Effects of Early Physical Activity on Outcomes Following
 
 35. Giffen S, **Wingerson MJ,** Kniss JR, Simon SL, Mannix R, Meehan W, Wilson JC, Howell DR, Donahue CC. 
 Persistent Sleep Problems among Adolescents Post-Concussion: A Longitudinal Investigation of Sleep Quality 
-Across Recovery Phases. Journal of Athletic Training. *In Press, Accepted June 22 ,2026*
+Across Recovery Phases. Journal of Athletic Training. *In Press, Accepted June 22 ,2026*  
 
 36. Salfi ZP, Kniss JR, **Wingerson MJ,** Smulligan KL,
 Donahue C, Wilson JC, Howell DR. Quality of Life Among Adolescents with and without Noise Sensitivity
-Following Concussion: A Cross-Sectional Study. *In review at... tbd*
+Following Concussion: A Cross-Sectional Study. *In review at... tbd*  
 
-
-
+37. Cavey K, **Wingerson MJ,** Kniss J, Smulligan KL, Donahue CC, Wilson JC, Howell DR.
+Near Point of Convergence Following Adolescent Concussion: Associations with Quality-of-Life
+Ratings. *In review at... tbd*  
 
 
 ---
