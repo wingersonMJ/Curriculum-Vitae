@@ -549,7 +549,7 @@ Athletes. *In-review at... tbd*
 
 128. Hurlburt KD, Richardson KL, Wunderlich LG, **Wingerson MJ,** Wilson JC, Meehan WP, Howell DR. 
 Risk of subsequent injury after concussion is attenuated by volume of MVPA during concussion recovery. 
-*University of Colorado D'Ambrosia Orthopedics Research Symposium.* Presentation format pending.  
+*University of Colorado D'Ambrosia Orthopedics Research Symposium.* Poster Presentation.  
 
 129. Hurlburt KD, Richardson KL, Wunderlich LG, **Wingerson MJ,** Wilson JC, Meehan WP, Howell DR. 
 Risk of subsequent injury after concussion is attenuated by volume of MVPA during concussion recovery. 
