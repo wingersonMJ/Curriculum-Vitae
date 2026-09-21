@@ -201,7 +201,7 @@ Medicine.* Pre-print, accepted Nov. 11, 2025.
 on concussion symptom resolution. *Journal of Sport Rehabilitation.* In press, accepted March 1, 2026.  
 
 33. Hurlburt KD, **Wingerson MJ,** Richardson KL, Kniss J, Mannix R, Meehan W, Wilson JC, Howell DR. Predictors of post-concussion exercise 
-tolerance and performance on systematic exertional testing. *In review at... tbd*  
+tolerance and performance on systematic exertional testing. *In review at Journal of Science and Medicine in Sport*  
 
 34. Wunderlich L, **Wingerson MJ,** Kniss JK, Richardson KL, Hurlburt KD, Donahue CC, Wilson JC, Howell DR. 
 Evaluating Sex-Specific Effects of Early Physical Activity on Outcomes Following Adolescent Concussion. 
