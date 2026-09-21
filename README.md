@@ -552,8 +552,9 @@ Risk of subsequent injury after concussion is attenuated by volume of MVPA durin
 *University of Colorado D'Ambrosia Orthopedics Research Symposium.* Poster Presentation.  
 
 129. Hurlburt KD, Richardson KL, Wunderlich LG, **Wingerson MJ,** Wilson JC, Meehan WP, Howell DR. 
-Risk of subsequent injury after concussion is attenuated by volume of MVPA during concussion recovery. 
-*Pediatric Research in Sports Medicine (PRiSM) Annual Conference* Presentation format pending.  
+Greater volume of MVPA during concussion recovery is associated with decreased risk of subsequent
+injury among adolescents. *Pediatric Research in Sports Medicine (PRiSM) Annual Conference* Jan. 28, 2027.
+Orlando, FL. Podium Presentation.  
 
 130. Richardson KL, Hurlburt KD, Wunderlich LG, **Wingerson MJ,** Wilson JC, Mannix R, Howell DR. 
 Post-concussion plasma biomarkers association with persisting symptoms after concussion among adolescents. 
