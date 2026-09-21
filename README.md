@@ -558,7 +558,19 @@ Orlando, FL. Podium Presentation.
 
 130. Richardson KL, Hurlburt KD, Wunderlich LG, **Wingerson MJ,** Wilson JC, Mannix R, Howell DR. 
 Post-concussion plasma biomarkers association with persisting symptoms after concussion among adolescents. 
-*Pediatric Research in Sports Medicine (PRiSM) Annual Conference* Presentation format pending.  
+*Pediatric Research in Sports Medicine (PRiSM) Annual Conference* Presentation format pending.
+
+131. Wunderlich LG, Smulligan KL, Kniss JR, **Wingerson MJ,** Peterson SA, Walker G, Wilson JC, Howell DR. 
+Are Adolescents with Concussion Uniquely Vulnerable to Subsequent Injury? A Comparison of Subsequent 
+Injury Risk Following Adolescent Concussion vs. Musculoskeletal Injury. *University of Colorado 8th 
+Annual D’Ambrosia Orthopedic Symposium.* October 28, 2026. Aurora, CO. Poster Presentation. 
+***Clinical Science Poster Award Finalist***
+
+132. Richardson KL, Hurlburt KD, Wunderlich L, **Wingerson MJ,** Wilson JC, Meehan III WP, Mannix R, Howell DR.
+Association Between Post-Concussion Plasma Biomarkers and Persisting Symptoms After Concussion Among Adolescents.
+*8th Annual D’Ambrosia Orthopedic Symposium.* October 28, 2026. Aurora, CO. Poster Presentation. ***Clinical
+Science Poster Award Finalist***  
+
 
 ### Other Presentations
 
