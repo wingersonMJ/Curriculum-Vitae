@@ -533,7 +533,7 @@ Athletes. *In-review at... tbd*
 
 120. Richardson KL, Hurlburt KD, **Wingerson MJ,** Warren K, Wilson JC, Mannix R, Meehan WP, Howell DR. Are inflammatory cytokine plasma biomarkers associated with subsequent injury risk following concussion symptom resolution? American College of Sports Medicine (ACSM) Annual Meeting. Salt Lake City, UT. May 2026. Poster Presentation. 
 
-121. Wunderlich L, **Wingerson MJ,** Kniss JR, Richardson KL, Hurlburt KD, Wilson JC, Howell DR. Sex-specific effects of early physical activity on concussion outcomes. 40th Annual Virtual Student Research Forum at the University of Colorado Anschutz Medical Campus. Aurora, CO. December 9, 2025. Presentation format pending. 
+121. Wunderlich L, **Wingerson MJ,** Kniss JR, Richardson KL, Hurlburt KD, Wilson JC, Howell DR. Sex-specific effects of early physical activity on concussion outcomes. 40th Annual Virtual Student Research Forum at the University of Colorado Anschutz Medical Campus. Aurora, CO. December 9, 2025. Poster presentation. 
 
 122. Cavey K, Smulligan KL, Donahue CC, Kniss JK, **Wingerson MJ,** Wilson JC, Howell DR. Near Point of Convergence Following Adolescent Concussion: Associations with Quality-of-Life Ratings. American Medical Society for Sports Medicine (AMSSM) Annual Meeting. Seatlle, WA. Apr 23-29, 2026. Podium Presentation. 
 
@@ -558,7 +558,7 @@ Orlando, FL. Podium Presentation.
 
 130. Richardson KL, Hurlburt KD, Wunderlich LG, **Wingerson MJ,** Wilson JC, Mannix R, Howell DR. 
 Post-concussion plasma biomarkers association with persisting symptoms after concussion among adolescents. 
-*Pediatric Research in Sports Medicine (PRiSM) Annual Conference* Presentation format pending.
+*Pediatric Research in Sports Medicine (PRiSM) Annual Conference* Podium presentation.
 
 131. Wunderlich LG, Smulligan KL, Kniss JR, **Wingerson MJ,** Peterson SA, Walker G, Wilson JC, Howell DR. 
 Are Adolescents with Concussion Uniquely Vulnerable to Subsequent Injury? A Comparison of Subsequent 
@@ -569,7 +569,12 @@ Annual D’Ambrosia Orthopedic Symposium.* October 28, 2026. Aurora, CO. Poster 
 132. Richardson KL, Hurlburt KD, Wunderlich L, **Wingerson MJ,** Wilson JC, Meehan III WP, Mannix R, Howell DR.
 Association Between Post-Concussion Plasma Biomarkers and Persisting Symptoms After Concussion Among Adolescents.
 *8th Annual D’Ambrosia Orthopedic Symposium.* October 28, 2026. Aurora, CO. Poster Presentation. ***Clinical
-Science Poster Award Finalist***  
+Science Poster Award Finalist***
+
+133. Richardson KL, Hurlburt KD, **Wingerson MJ,** Warren K, Wilson JC, Mannix R, Meehan III WP, Howell DR.
+Association of Plasma Cytokine Biomarkers With Subsequent Injury Risk Following Concussion Symptom Resolution
+in Adolescents. *Pediatric Research in Sports Medicine Society (PRiSM) Annual Meeting.*
+January 30, 2026. Orlando, FL. Podium Presentation.  
 
 
 ### Other Presentations
