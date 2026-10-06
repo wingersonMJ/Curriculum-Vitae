@@ -2,11 +2,11 @@
 
 1874 East Mall,  
 Vancouver, BC, Canada.  
-The University of British Columbia  
+University of British Columbia  
 
-Email: Mathew.Wingerson@UBC.ca | Mat.Wingerson@gmail.com  
-Phone: 816.801.3238  
-[Website](https://wingersonmj.github.io/) | [GitHub (@WingersonMJ)](https://github.com/wingersonMJ) | [LinkedIn](https://www.linkedin.com/in/mat-wingerson/)  
+**Email:** Mathew.Wingerson@UBC.ca | Mat.Wingerson@gmail.com  
+**Phone:** 816.801.3238  
+**Links:** [Website](https://wingersonmj.github.io/) | [GitHub (@WingersonMJ)](https://github.com/wingersonMJ) | [LinkedIn](https://www.linkedin.com/in/mat-wingerson/)  
 
 ## Table of Contents
 
@@ -653,7 +653,9 @@ Completed March 16, 2026.
 1. https://www.msn.com/en-us/health/other/study-investigates-flag-football-s-affect-on-girl-s-physical-mental-health/ar-AA1JYIZA  
 
 #### Python Examples:
-1. PropensityBatchRandomization: A tool for randomizing participant biological samples across plates or batches while numerically evaluating the balance of key participant covariates post-randomization. 
+1. PropensityBatchRandomization: A tool for randomizing participant biological samples 
+across plates or batches while numerically evaluating the balance of key participant 
+covariates post-randomization. 
     - [GitHub Repo](https://github.com/wingersonMJ/PropensityBatchRandomization)
     - [PyPI Project Page](https://pypi.org/project/propensitybatchrandomization/)
 2. Dissertation work: Python-based data processing and analysis workflows for longitudinal exploration of wearable 
@@ -683,13 +685,6 @@ neural networks. Predicting clinical outcomes using >7,500 proteomics.
 3. Random Forest Prediction of Non-Resolving Anxiety/Depression Symptoms After Concussion: Multi-site predictions using clinical data. 
     - [Project GitHub](https://github.com/wingersonMJ/Random_Forest_Predicting_Mental_Health_Outcomes)
     - [Application Link](https://wingersonmj.shinyapps.io/scope_app/)
-
-#### NeurIPS Submission:
-1. Submitted work to NeurIPS 2025. 
-    - **Project Summary:** This study introduces a neural network approach using ordinal embeddings of health-related behaviors to predict substance use risk. We propose that adjacent health-related behaviors can 
-    predict substance use, and that a model with ordinal embeddings can successfully distinguish between adolescents using substances and non-users with enough success to be clinically feasible. We also demonstrate 
-    improved generalizability to unseen data when including ordinal embedding in the model compared to traditional one-hot encoding of data, at least within the context of predicting adolescent substance use.
-    - [GitHub Repo](https://github.com/wingersonMJ/2025_NeurIPS_Submission)
 
 #### Side-Projects in Machine Learning:
 1. A Patients-Like-Me Approach to Aggregating Data in Clinical Management of Adolescent Concussion.
@@ -734,18 +729,20 @@ neural networks. Predicting clinical outcomes using >7,500 proteomics.
 ## Supervised Research Trainees
 
 #### Undergratuate Students:
-- Jake Rademacher. *University of Denver, College of Natural Sciences and Mathematics.* Fall 2021 - Spring 2023.
-- Zachary Salfi. *University of North Carolina.* Summer 2025 - Present. 
+- Jake Rademacher. *University of Denver, College of Natural Sciences and Mathematics.* Fall 2021 - Spring 2023.  
+- Zachary Salfi. *University of North Carolina.* Summer 2025 - Summer 2026. 
+- Mica Schechma. *University of British Columbia, Neuroscience.* Fall 2026 - Summer 2027.  
+- Alyssa Dekam. *University of British Columbia, Honours Psychology.* Fall 2026 - Summer 2027.  
 
 #### Graduate Students:
-- Nicole Szeto. *University of Colorado Anschutz, Graduate School.* Fall 2022 - Fall 2023.
-- Bailey Schmitz. *Northern Arizona University, Doctor of Occupational Therapy Program.* Fall 2021 - Spring 2022. 
-- Sammuel Messenger. *University of Colorado Anschutz, Master of Epidemiology Program.* Fall 2022 - Fall 2023. 
-- Ross Moseley, *University of Colorado Anschutz, School of Medicine.* Fall 2024 - Present. 
+- Nicole Szeto. *University of Colorado Anschutz, Graduate School.* Fall 2022 - Fall 2023.  
+- Bailey Schmitz. *Northern Arizona University, Doctor of Occupational Therapy Program.* Fall 2021 - Spring 2022.  
+- Sammuel Messenger. *University of Colorado Anschutz, Master of Epidemiology Program.* Fall 2022 - Fall 2023.  
+- Ross Moseley, *University of Colorado Anschutz, School of Medicine.* Fall 2024 - Summer 2026.  
 
 #### Research Trainees:
-- Katelyn Hurlburt. *University of Colorado Anschutz, Colorado Concussion Research Laboratory.* Spring 2025 - Present.
-- Meghan Whalen. *Boston Children's Hospital, Micheli Center for Sports Injury Prevention.* Spring 2025 - Present. 
+- Katelyn Hurlburt. *University of Colorado Anschutz, Colorado Concussion Research Laboratory.* Spring 2025 - Summer 2026.  
+- Meghan Whalen. *Boston Children's Hospital, Micheli Center for Sports Injury Prevention.* Spring 2025 - Summer 2026. 
 
 --- 
 
@@ -768,9 +765,3 @@ Lead Statistician, Colorado Concussion Research Laboratory, University of Colora
 *Contact information available uppon request*
 
 ---
-
-<!---
-git config --global alias.cv "!git pull --rebase origin main && git push origin main""git pull --rebase origin main && git push origin main"  
-- Solves the issue of having to manually pull and merge every time I want to push to remote from local... 
-- ...becuse remote will always be one commit ahead of local based on action rule. 
---->
