@@ -1,18 +1,17 @@
 # Mathew J. Wingerson 
 
-12800 E. 19th Avenue,  
-RC1N, Room 3401G,  
-Aurora, CO, US  
-80045  
+1874 East Mall,  
+Vancouver, BC, Canada.  
+The University of British Columbia  
 
-Email: Mathew.Wingerson@CUAnschutz.edu | Mat.Wingerson@gmail.com  
+Email: Mathew.Wingerson@UBC.ca | Mat.Wingerson@gmail.com  
 Phone: 816.801.3238  
-| [Website](https://wingersonmj.github.io/) | [GitHub (@WingersonMJ)](https://github.com/wingersonMJ) | [LinkedIn](https://www.linkedin.com/in/mat-wingerson/) | [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/mathew.wingerson.1/bibliography/public/) | [Posters/Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876) |  
+[Website](https://wingersonmj.github.io/) | [GitHub (@WingersonMJ)](https://github.com/wingersonMJ) | [LinkedIn](https://www.linkedin.com/in/mat-wingerson/)  
 
 ## Table of Contents
 
-1. [Education](#education)
-2. [Professional Experience](#professional-experience)
+1. [Professional Experience](#professional-experience)
+2. [Education](#education)
 3. [Funding History](#funding-history)
 4. [Peer-Reviewed Publications](#peer-reviewed-publications)
     - [First Authored](#first-authored)
@@ -29,38 +28,24 @@ Phone: 816.801.3238
 
 --- 
 
-## Education
-
-### Doctor of Philosophy: Rehabilitation Sciences
-Expected: 2026  
-University of Colorado Anschutz School of Medicine, Aurora, CO.  
-
-### Certificate/Focus Area: Data Science and Health Analytics
-Completed: October 2025.  
-Conferred: May 2026.  
-University of Colorado School of Public Health, Aurora, CO.  
-
-### Master of Science: Applied Sport Psychology
-Conferred: August 2021.  
-Adams State University, Department of Kinesiology, Alamosa, CO.  
-
-### Bachelor of Arts: Psychology
-Conferred: December 2018.  
-Simpson College, Department of Psychology, Indianola, IA.  
-
----
-
 ## Professional Experience
 
 ### Postdoctoral Research Fellow
 August 2026 - tbd  
 University of British Columbia, Department of Psychology  
 Supervised by: Noah Silverberg  
-Research focus: Using biostatistics, health analytics, and ML/AI to bring the relevant data 
-to the right people at the right time, and design pipelines that implement those processes 
-into clinical workflows at the point of care!  
+Research focus: Dr. Wingerson is a postdoctoral fellow in 
+the Coping with Neurological Symptoms (CNS) research lab. 
+He obtained his PhD in Rehabilitation Sciences at the University 
+of Colorado Anschutz School of Medicine where his research focused 
+on advancing diagnosis, prognosis, and treatment of sport-related 
+concussion in children and adolescents. Today, Dr. Wingerson is 
+passionate about statistics, health analytics, and quantitative models; 
+his research seeks to develop data-driven tools for clinical 
+decision-support and care delivery, as well as uncover methods 
+for integrating analytics at the point-of-care.  
 
-### PhD Student/Candidate Researcher
+### PhD Candidate Researcher
 August 2022 - Present  
 University of Colorado School of Medicine, Rehabilitation Sciences Program  
 Supervised by: David Howell, PhD, ATC; Julie Wilson, MD; Jennifer Stevens-Lapsley, PT, PhD.  
@@ -76,6 +61,29 @@ Supervised by: David Howell, PhD, ATC; Julie Wilson, MD; Michael Kirkwood, PhD.
 December 2019 - Novemeber 2021  
 Childrens Hospital Colorado, Sports Medicine Center  
 Supervised by: David Howell, PhD, ATC; Julie Wilson, MD; Michael Kirkwood, PhD.  
+
+---  
+
+
+## Education
+
+### Doctor of Philosophy: Rehabilitation Sciences
+Completed: June 2026
+Conferred: August 2026  
+University of Colorado Anschutz School of Medicine, Aurora, CO.  
+
+### Certificate/Focus Area: Data Science and Health Analytics
+Completed: October 2025.  
+Conferred: May 2026.  
+University of Colorado School of Public Health, Aurora, CO.  
+
+### Master of Science: Applied Sport Psychology
+Conferred: August 2021.  
+Adams State University, Department of Kinesiology, Alamosa, CO.  
+
+### Bachelor of Arts: Psychology
+Conferred: December 2018.  
+Simpson College, Department of Psychology, Indianola, IA.  
 
 ---
 
