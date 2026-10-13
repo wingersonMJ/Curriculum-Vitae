@@ -233,7 +233,11 @@ Athletes. *In-review at... tbd*
 
 39. Wunderlich L, Smulligan KL, Kniss JR, **Wingerson MJ,** White SA, Walker G, Wilson JC, Howell DR.
 Are adolescents with concussion uniquely vilnerable to subsequent injury? A comparison of subsequent
-injury risk following concussion and musculoskeletal injury. *In review at... td*  
+injury risk following concussion and musculoskeletal injury. *In review at... tbd* 
+
+40. Hurlburt KD, **Wingerson MJ,** Richardson KL, Wunderlich LG, Mannix R, Meehan WP, Wilson JC, Howell DR. 
+A comparison of post-concussion exercise intensity recomendations: Age predicted HR vs exertional 
+testing. *In review at... tbd*
 
 ---
 
