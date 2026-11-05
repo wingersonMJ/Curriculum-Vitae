@@ -64,6 +64,24 @@ Supervised by: David Howell, PhD, ATC; Julie Wilson, MD; Michael Kirkwood, PhD.
 
 ---  
 
+## Membership/Professional Associations  
+
+**Healthcare Data & Analytics Association (HDAA)** - 2026 to present.  
+**Digital Health Canada** - 2026 to present.  
+**Canadian Traumatic Brain Injury Research Consortium (CTRC)** - 2026 to present.  
+
+
+## Notable Conference Attendance
+
+**Concussion in Sport Consensus Conference,** Amsterdam, The Netherlands. Nov. 2022.  
+**International Olympic Committee Conference on Prevention of Injury and Illness** 
+**in Sport,** Monaco. Mar. 2024.  
+**Open Data Science - West,** Virtual. Oct. 2026.  
+
+
+
+---
+
 
 ## Education
 
